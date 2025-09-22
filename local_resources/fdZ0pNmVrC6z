@@ -1,0 +1,1509 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Ourcoffeeklatsch | Just another WordPress.com site</title>
+<link rel="pingback" href="https://ourcoffeeklatsch.wordpress.com/xmlrpc.php" />
+
+	<!--[if IE 6]>
+		<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/pub/bueno/includes/js/pngfix.js?m=1315596887i"></script>
+		<link rel="stylesheet" type="text/css" media="all" href="https://s2.wp.com/wp-content/themes/pub/bueno/css/ie6.css?m=1290185885i" />
+	<![endif]-->
+
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="all" href="https://s2.wp.com/wp-content/themes/pub/bueno/css/ie7.css?m=1290185885i" />
+	<![endif]-->
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//af.pubmine.com' />
+<link rel="alternate" type="application/rss+xml" title="Ourcoffeeklatsch &raquo; Feed" href="https://ourcoffeeklatsch.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ourcoffeeklatsch &raquo; Feed de los comentarios" href="https://ourcoffeeklatsch.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1751981882i&ver=6.8.2-alpha-60439"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJx9jMEOwiAQRH9IXD0UTsZvAVwpLewSWNL497aJbYwHL5O8ybyBpSjPJEgCLnFQJfUQqUG2dUaJFJSzFXz7ac5rc4IvOfdDnVCK9fOHITNv8egJG0R6RoqCqvnKKe38+ve3b0BGzOtH6Q5cR+JNuufb1QxGG30Z9PQGARRNQA==&cssminify=yes' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/wp-content/plugins/gutenberg-core/v20.6.0/build/block-library/style.css?m=1744959081i&cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='/_static/??-eJyVzDEOgCAMQNELiQU1Jg7Gs2AlDYpAaInx9ro5O/7hfbiywhTFRYEcKvnIQPXN1RVSa0h4MOxOssVDBXunKoqK34DlDq5F5gb+LIoVH4k/vpyzGYe+03oyw/4AcmU1KQ==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGpoZmFkYGRuZGmQBAHPvL0Y=&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJx9jUsOwjAMRC+EY6UgCAvEWZrEKoG4jWq3hduTLvisurFG1nszuBQIQ6/UK5Y8dakXDIPPQ3gINsY6Y0ESl0ww0mwOGJPolwDRVyYTRHb4V8QT/LpGqn8ura4EU0wtZeKKbWlLih1p1eWTQem5rZQ6A96XkUSgXk4Tg97qlqzelS/26KzbN835dH8DjlpbIA==&cssminify=yes' type='text/css' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-10-1' href='https://s2.wp.com/wp-content/themes/pub/bueno/style.css?m=1741693326i&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack_facebook_likebox-inline-css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1i9KTcrJTwcy0/WTi5G5ekCujj52Temp+bo5+cmJJZn5eSgc3bScxMwikFb7XFtDE1NLExMLc0OTLACohS2q&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-13-1' href='https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-16-1' href='https://s2.wp.com/wp-content/themes/h4/global.css?m=1420737423i&cssminify=yes' type='text/css' media='all' />
+<script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"34981007","postID":"0","siteURL":"http:\/\/ourcoffeeklatsch.wordpress.com","xhrURL":"https:\/\/ourcoffeeklatsch.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"7bc4fb8e88","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","i18n":{"followedText":"Las nuevas entradas de este sitio aparecer\u00e1n ahora en tu <a href=\"https:\/\/wordpress.com\/reader\">Lector<\/a>","foldBar":"Contraer esta barra","unfoldBar":"Expandir esta barra","shortLinkCopied":"El enlace corto se ha copiado al portapapeles."}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-mu-wpcom-settings-js-before">
+/* <![CDATA[ */
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https:\/\/s1.wp.com\/wp-content\/mu-plugins\/jetpack-mu-wpcom-plugin\/moon\/jetpack_vendor\/automattic\/jetpack-mu-wpcom\/src\/build\/"};
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJyFjssOwiAQRX9IOrXG18L4LTwmCIEBGbD2722jTbpzdRf3nJsLYxY6UUWq4BlKqCKX9J46zzvYdCokK3Jo1hHDmIqRhoUOkhl5EXXM8BqWEFybWnVHOjTzRfyzYZl+0UVHfyERnS2y4hZeD9UHxlnJTYFqSAm2KxYJiwyzc4+3/Xnoj4f+dLn6D4+qV3o='></script>
+<script type="text/javascript" id="rlt-proxy-js-after">
+/* <![CDATA[ */
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+/* ]]> */
+</script>
+<link href="https://s2.wp.com/wp-content/themes/pub/bueno/styles/default.css?m=1349041266i" rel="stylesheet" type="text/css" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ourcoffeeklatsch.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/2mM9N' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ourcoffeeklatsch" />
+<meta property="og:description" content="Just another WordPress.com site" />
+<meta property="og:url" content="https://ourcoffeeklatsch.wordpress.com/" />
+<meta property="og:site_name" content="Ourcoffeeklatsch" />
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=200&#038;ts=1758563023" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="249643311490" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=32" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=114" />
+<link rel='openid.server' href='https://ourcoffeeklatsch.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://ourcoffeeklatsch.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://ourcoffeeklatsch.wordpress.com/osd.xml" title="Ourcoffeeklatsch" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#ffffff" />
+		<style id="wpcom-hotfix-masterbar-style">
+			@media screen and (min-width: 783px) {
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+					margin-top: 5px;
+				}
+			}
+		</style>
+				<style type="text/css">
+		body {
+			background-image: none;
+		}
+		</style>
+	<meta name="description" content="Just another WordPress.com site" />
+<script type="text/javascript">
+/* <![CDATA[ */
+var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 34981007, 'blog_language': 'es', 'is_wordads': false, 'hosting_type': 0, 'afp_account_id': null, 'afp_host_id': 5038568878849053, 'theme': 'pub/bueno', '_': { 'title': 'Anuncio publicitario', 'privacy_settings': 'Ajustes de privacidad' }, 'formats': [ 'belowpost', 'bottom_sticky', 'sidebar_sticky_right', 'sidebar', 'gutenberg_rectangle', 'gutenberg_leaderboard', 'gutenberg_mobile_leaderboard', 'gutenberg_skyscraper' ] };
+/* ]]> */
+</script>
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/es/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'No vendas ni compartas mi información personal';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"125","consentLanguage":"ES","locale":"es","vendorsAll":"BSUAOIRKgQQoJAQI4BAAhAEBiAYACECAAABAACAAAAAAAhEAEAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAABAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAIAAAgAAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","vendorsLegInterest":"BSUAEAQKgAAoAAAIgAAAgAAACAIACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajaxNonce":"3476a46ac6","modulePath":"https:\/\/s1.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/cmp\/v2\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/34981007\/cmp\/v3\/vendors\/es\/","_":{"title":"Privacidad y cookies","intro":"Nosotros, WordPress.com, y nuestros socios publicitarios recopilamos o accedemos a cierta informaci\u00f3n en tu dispositivo y tratamos datos personales, como los identificadores \u00fanicos, el historial de navegaci\u00f3n y otra informaci\u00f3n est\u00e1ndar que tu dispositivo proporciona, incluida tu direcci\u00f3n IP. Esta informaci\u00f3n se recopila con el tiempo y se utiliza para publicidad personalizada, medici\u00f3n de publicidad, investigaci\u00f3n de audiencia y desarrollo de servicios espec\u00edficos para nuestro programa publicitario. Si est\u00e1s de acuerdo con todo lo anterior, selecciona \"Acepto\" m\u00e1s abajo. De lo contrario, puedes obtener m\u00e1s informaci\u00f3n, personalizar tus preferencias de consentimiento para m\u00e1s de 51 proveedores de anuncios diferentes o denegar el consentimiento haciendo clic en \"M\u00e1s informaci\u00f3n\". Ten en cuenta que tus preferencias se aplican a todas las webs de la <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">red de WordPress.com<\/a> y, si m\u00e1s adelante cambias de opini\u00f3n, puedes modificarlas en cualquier momento accediendo al enlace sobre privacidad que aparece debajo de cada anuncio o utilizando la opci\u00f3n \"Privacidad\" de la barra de acciones situada en la esquina inferior derecha de la pantalla. Por \u00faltimo, nuestros socios pueden tratar algunos de tus datos bas\u00e1ndose en intereses leg\u00edtimos en lugar de en tu consentimiento, pero puedes oponerte a ello si eliges \"M\u00e1s informaci\u00f3n\" y desactivas el bot\u00f3n \"Intereses leg\u00edtimos\" bajo cada una de las finalidades o socios indicados.","config":"M\u00e1s opciones","accept":"Acepto","viewPartners":"Ver socios","error":"Ha ocurrido un error inesperado. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde."}}</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+
+</head>
+
+<body class="home blog wp-theme-pubbueno customizer-styles-applied jetpack-reblog-enabled has-marketing-bar has-marketing-bar-theme-bueno">
+
+<div id="container">
+
+	<div id="navigation">
+
+		<div class="col-full">
+
+			<div id="description" class="fl">Just another WordPress.com site</div>
+
+			<div id="topsearch" class="fr">
+				<div id="search_main" class="widget">
+
+	<h3>Buscar</h3>
+
+    <form method="get" id="searchform" action="https://ourcoffeeklatsch.wordpress.com">
+        <input type="text" class="field" name="s" id="s"  value="Buscar..." onfocus="if (this.value == 'Buscar...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Buscar...';}" />
+        <input type="submit" class="submit" name="submit" value="Buscar" />
+    </form>
+
+    <div class="fix"></div>
+
+</div>
+			</div><!-- /#topsearch -->
+
+		</div><!-- /.col-full -->
+
+	</div><!-- /#navigation -->
+
+		<div id="header" class="col-full">
+
+		<div id="logo" class="fl">
+
+						<h1 class="site-title"><a href="https://ourcoffeeklatsch.wordpress.com">Ourcoffeeklatsch</a></h1>
+			
+		</div><!-- /#logo -->
+
+		<div id="pagenav" class="nav fr">
+			<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-589"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/">Crítica literaria</a></li>
+<li id="menu-item-590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-590"><a href="https://ourcoffeeklatsch.wordpress.com/category/peliculas-y-series/">Películas y series</a></li>
+<li id="menu-item-591" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-591"><a href="https://ourcoffeeklatsch.wordpress.com/category/relatos/">Relatos</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-592"><a href="https://ourcoffeeklatsch.wordpress.com/category/tiempo-de-poesia/">Tiempo de poesía</a></li>
+</ul></div>		</div><!-- /#pagenav -->
+
+		
+	</div><!-- /#header -->
+    <div id="content" class="col-full">
+		<div id="main" class="col-left">
+
+                        
+                
+<div id="post-564" class="post-564 post type-post status-publish format-standard hentry category-critica-literaria category-uncategorized">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2016/05/21/hola-de-nuevo/" rel="bookmark" title="Hola de nuevo">Hola de nuevo</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2016/05/21/hola-de-nuevo/">
+		<span class="day">21</span>
+		<span class="month">May</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p>¡Hola de nuevo!</p>
+<p>Después de una larga ausencia debida sobre todo a temas de estudios y de trabajo, hemos decidido regresar, aunque dando un pequeño giro al blog.</p>
+<p>Tras esta larga pausa, aunque de vez en cuando podréis ver algunos de los contenidos habituales del blog, lo que realmente encontraréis en Ink Ties van a ser reseñas.</p>
+<p>Reseñas, sí, para cuando no sepáis que leer. Seguro que esto no os extraña, ya que cada vez es más habitual encontrar este tipo de contenidos en la red.</p>
+<p>Pero bueno, no pretendemos ser un blog más, queremos que sea algo especial o distinto, por eso quiero empezar explicando un poco la dinámica que queremos seguir:</p>
+<p>Para empezar, dos de los componentes del grupo somos filólogos, mientras que los otros dos, sin estar metidos dentro de este mundo que es la filología, son grandes amantes de la literatura.</p>
+<p>Quizá debido a la formación filológica (además de que los dos somos estudiantes de literatura) hemos tenido que leer grandes obras (y otras no tan grandes) de la literatura universal, por eso no os extrañe encontrar reseñas de obras como <em>La Regenta </em> de Clarín o <em>El Quijote</em> junto al último <em>best-seller</em> del momento.</p>
+<p>La verdad es que hemos tardado en llegar a esta decisión, porque parece ser que ahora muy pocos somos los que nos interesamos por estas obras, aunque al final, después de pensarlo, hemos llegado a la conclusión de que puede ser interesante ver las opiniones de gente de todas las edades acerca de estas obras.</p>
+<p>Junto a esto, tenemos que decir que también nuestros gustos literarios son muy dispares (cada uno es fan de un género distinto), por lo que no vais a encontrar un blog dedicado exclusivamente a la fantasía, al realismo, al terror o a la ciencia ficción. Queremos ser un blog variado que ofrezca una gran cantidad de posibilidades y que sea capaz de descubrir obras de todo tipo a cada lector.</p>
+<p>Otro detalle que queremos añadir, es que nosotros también somos escritores (como podréis comprobar en antiguas entradas del blog), por lo que estaremos encantados de reseñar todas aquellas obras publicadas que nos queráis mandar. Sabemos que el mundo editorial es complejo y que una buena reseña puede hacer mucho, aunque eso sí, no podemos comprometernos a que las reseñas sean siempre positivas.</p>
+<p>Bueno, esto está empezando a quedar demasiado largo, así que va siendo hora de despedirse. Dentro de poco comenzaremos a publicar las reseñas, y esperamos que nos dejéis vuestros comentarios con las opiniones sobre los libros.</p>
+<p>Muchas gracias por haber leído hasta aquí y os esperamos por twitter (en breves dispondremos de página de Facebook y cuenta en Instagram, que hay que modernizarse!)</p>
+<p>Un cordial saludo del grupo Ink Ties.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+							</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2016/05/21/hola-de-nuevo/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/" rel="category tag">Crítica literaria</a>, <a href="https://ourcoffeeklatsch.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-561" class="post-561 post type-post status-publish format-standard hentry category-mar-de-pensamientos tag-moniqueallanpoe">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/11/03/aturdes-mis-sentidos/" rel="bookmark" title="Aturdes mis sentidos">Aturdes mis sentidos</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/11/03/aturdes-mis-sentidos/">
+		<span class="day">3</span>
+		<span class="month">Nov</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p style="text-align:justify;">Aturdes mis sentidos. Los engañas con aire burlesco mientras yo me desespero en una turbina de percepciones que anegan de dicha mi mente. Mis sentidos están embotados y como locos por obtener con claridad, con total claridad lo que está ocurriendo. El olor de la felicidad es tan intenso que sumerjo la nariz entre la tela y me regocijo mientras mis pobres sentidos se siguen confundiendo. El olor es tan intenso que alargo la mano en una dolorosa y estridente nada y casi puedo acunar tu rostro entre mis dedos vacíos, aunque mis receptores táctiles se balancean en el aire, sin llegar a tocar nada y una sonrisa aplasta mis pómulos y los aprieta contra mis ojos. El olor es tan intenso que cuando entreabro los ojos en la oscuridad distingo tus facciones y mi sonrisa es tan grande en este momento que mis pómulos apretados comienzan a quejarse de la tensión. Te veo, ¡puedo verte! Pero cuando pestañeo apenas una vez, tu contorno ha desaparecido a una velocidad sobrehumana, y comprendo que tu imagen ha sido parte de mi sobreexcitada imaginación. Los párpados me pesan ante la desoladora noticia pero… el olor es tan intenso que… ¡Que pronto un murmullo leve se abre paso entre mis atañidos tímpanos! Distingo tu voz, aunque nada suena y hundo la nariz tanto en la tela que tengo que respirar a duras penas a través de ella. Mi corazón responde a tu voz como un martillo golpeando una tela de forma incesante y arrítmica, cada vez más rápido. Un corazón de colibrí que late a saltos conforme subes y bajas el tono de tu voz, aunque allí, nada suena. Excitas tanto mis sentidos que me atrevo a recordar tu sabor y me muerdo los labios, que de pronto,  queman.</p>
+<p style="text-align:justify;">Sí, embrollas mis sentidos hasta ese punto. Y todo esto es, maldita sea, porque mi cama huele a ti y tú…</p>
+<p style="text-align:justify;">tú no estás dentro de ella.</p>
+<p style="text-align:justify;">
+<p style="text-align:justify;">
+<p style="text-align:justify;"><em>MoniqueAllanPoe</em></p>
+<div id="atatags-370373-68d18acf100a0">
+		<script type="text/javascript">
+			__ATA = window.__ATA || {};
+			__ATA.cmd = window.__ATA.cmd || [];
+			__ATA.cmd.push(function() {
+				__ATA.initVideoSlot('atatags-370373-68d18acf100a0', {
+					sectionId: '370373',
+					format: 'inread'
+				});
+			});
+		</script>
+	</div>				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/moniqueallanpoe/" rel="tag">MoniqueAllanPoe</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/11/03/aturdes-mis-sentidos/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/mar-de-pensamientos/" rel="category tag">Mar de pensamientos</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-558" class="post-558 post type-post status-publish format-standard hentry category-critica-literaria tag-mk">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/09/16/recomendacion-literaria-el-ciclo-de-la-luna-roja/" rel="bookmark" title="Recomendación literaria: «El ciclo de la Luna&nbsp;Roja»">Recomendación literaria: «El ciclo de la Luna&nbsp;Roja»</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/09/16/recomendacion-literaria-el-ciclo-de-la-luna-roja/">
+		<span class="day">16</span>
+		<span class="month">Sep</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p><em>El Ciclo de la Luna Roja</em> de José Antonio Cotrina es una trilogía formada por:</p>
+<p><span style="color:#ff0000;"><em>La cosecha de</em></span> <em><span style="color:#ff0000;">Samhein</span></em><span style="color:#ff0000;"> </span></p>
+<p>Este libro comienza el día de Samhein (31 de octubre) cuando un extraño ser viaja a la Tierra en busca de jóvenes con un don especial. En total logra convencer a doce chicos con edades entre los trece y dieciséis años. Los muchachos son llevados a un lugar llamado Rocavarancolia, donde deberán apañárselas solos para sobrevivir en una ciudad que, aparentemente, está desierta, pero que guarda más peligros de los que imaginan.</p>
+<p><span style="color:#ff0000;"><em>Los hijos de las Tinieblas</em></span></p>
+<p><em></em><span style="color:#000000;">Los jóvenes que han logrado sobrevivir a los primeros meses en Rocavarancolia han madurado mucho tanto física como psicológicamente. En el tiempo que llevan en la ciudad han empezado a descubrir que son capaces de hacer magia y empiezan a intuir el poder que la Luna Roja ejerce sobre la ciudad.</span></p>
+<p>Mientras la cosecha lucha por sobrevivir, el consejo Real de Rocavarancolia debe enfrentarse a una traición que empezará a mermar a sus miembros&#8230;</p>
+<p><span style="color:#ff0000;"><em>La Sombra de la Luna</em></span></p>
+<p><span style="color:#000000;">Es la tercera y última parte (quizá la más esperada) de esta trilogía. En esta obra la Luna Roja hace, por fin, su aparición, y los muchachos que lograron sobrevivir comienzan a sufrir terribles cambios, pero con la Luna Roja en el cielo, el Consejo Real y los habitantes de la ciudad, ya pueden ayudar a los cosechados, comenzando así una lucha a contrareloj para detener a los conspiradores que pretenden acabar con Rocavarancolia&#8230;</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Estas novelas son una lectura ideal para todos aquellos amantes de la buena literatura de fantasía. En ellas encontramos todo lo que una novela debe tener, un argumento cuidado y trabajado, unos personajes que poco a poco van evolucionando, un estilo rápido, lo que hace que en ningún momento sea una lectura pesada y una gran emoción.</p>
+<p>&nbsp;</p>
+<p>MK!</p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/mk/" rel="tag">MK!</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/09/16/recomendacion-literaria-el-ciclo-de-la-luna-roja/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/" rel="category tag">Crítica literaria</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-555" class="post-555 post type-post status-publish format-standard hentry category-uncategorized">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/08/05/cuerpo-humano/" rel="bookmark" title="Cuerpo humano">Cuerpo humano</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/08/05/cuerpo-humano/">
+		<span class="day">5</span>
+		<span class="month">Ago</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p>José y Raque eran dos hermanos de seis y ocho años, por lo que raramente se quedaban solos en casa. Su hogar era una pequeña casa bastante alejada del pueblo, por eso el día que se quedaron solos no hubo testigos de lo que ocurrió.</p>
+<p>Nada más amanecer su padre, un recio campesino un poco corto de entenderas, se levantó para ir a trabajar a la vez que el sol, ya no volvería hasta que los últimos rayos de la estrella tiñeran de sangre el oro del campo. Un poco más tarde su madre, una mujer que en algún tiempo pasado pudo ser hermosa, se fue a arreglar unos asuntos a la ciudad. Pasarían todo el día solos en casa, por lo que tras despertar a los niños y darles un beso y muchas recomendaciones, se fue.</p>
+<p>La mañana transcurrió como siempre, ellos realizaban sus tareas y, tras la comida, sacaron unas mantas a la puerta de casa bajo un pino, era la hora de la siesta. Su sueño era intranquilo, quizá hacia demasiado calor, pero se despertaron por culpa de un fuerte ruido. Ambos abrieron los ojos nerviosos, el ruido era como el de un motor estropeado, por lo que salieron debajo de las ramas del pino, todavía con los ojos medio cerrados y, lo que vieron, se les grabó en la memoria para siempre…</p>
+<p>Ante la puerta de su casa había un hombre que parecía una persona normal, puede que un poco bajita. Era quien golpeaba la puerta mientras otra persona le esperaba en lo que los niños identificaron como un coche muy extraño.</p>
+<p>En un primer momento los niños se asustaron, no se atrevían a mostrase ante los desconocidos, (Su madre se lo había prohibido, y ellos siempre hacían caso a su mamá). Pero cuando los hombres por fin se dieron cuenta de su presencia, ya no pudieron evitarlo, aunque trataban de no mirarlos directamente. Finalmente los niños dejaron a los extraños entrar en casa.</p>
+<p>En el interior hacia una temperatura agradable, e inmediatamente los niños se apresuraron a ofrecer agua a los desconocidos, que rechazaron todo lo que se les ofrecía. Lo único que hicieron fue contar historias maravillosas a los niños de los lugares que habían visitado y que no existen, al menos no en nuestro mundo…</p>
+<p>El día iba estaba llegando a su fin y sus padre no tardarían en llegar. En cuanto los niños mencionaron a sus padres, los dos hombres se miraron y, sin decir ni hacer nada, desaparecieron junto a su extraño artefacto en una bola de humo…</p>
+<p>Cuando los padres volvieron los niños contaron lo sucedido a sus padres, estaban muy asustados. Como es lógico, no les creyeron, un sueño, un juego absurdo que los niños habían inventado…pero ellos estaban seguros de que había sido real. Además, hay que añadir, que esos seres volvieron a visitarlos en varias ocasiones más…</p>
+<p>Pasaron los años y los niños crecieron, olvidando lo ocurrido durante su infancia, hasta el día de su muerte…Cuando, primero a José y luego a Raquel, les llegó la hora, los seres aparecieron a los pies de su cama y les cerraron los ojos…Quizás entonces pudieran conocer los lugares maravillosos de los que hablaban…</p>
+<p>MK!<a href="http://http://files.delatomoalamor.webnode.es/200000077-ef486efc23/extraterrestres.jpg"><br />
+</a></p>
+<p><a href="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg"><img data-attachment-id="556" data-permalink="https://ourcoffeeklatsch.wordpress.com/2013/08/05/cuerpo-humano/extraterrestres/" data-orig-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg" data-orig-size="699,466" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="extraterrestres" data-image-description="" data-image-caption="" data-medium-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=300" data-large-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=490" class="alignright size-large wp-image-556" alt="extraterrestres" src="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=490&#038;h=326" width="490" height="326" srcset="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=490 490w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=150 150w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg?w=300 300w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/08/extraterrestres.jpg 699w" sizes="(max-width: 490px) 100vw, 490px" /></a></p>
+							</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/08/05/cuerpo-humano/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-553" class="post-553 post type-post status-publish format-standard hentry category-critica-literaria tag-mk">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/31/critica-literaria-sputnik-mi-amor-murakami/" rel="bookmark" title="Crítica literaria: «Sputnik, mi amor»&nbsp;Murakami">Crítica literaria: «Sputnik, mi amor»&nbsp;Murakami</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/31/critica-literaria-sputnik-mi-amor-murakami/">
+		<span class="day">31</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p>Del mismo modo en que, en el viaje del satélite ruso Sputnik, la perra Laika giraba alrededor de la Tierra y dirigía su atónita mirada hacia el espacio infinito, en Tokio tres personajes se buscan desesperadamente intentando romper el eterno viaje circular de la soledad. El narrador, un joven profesor de primaria, está enamorado de Sumire; pero ella, quien se considera la última rebelde, tiene una única obsesión, ser novelista. Sumire conocerá a Myû, una mujer casada de mediana edad tan hermosa como enigmática, y juntas emprenderán un viaje por Europa tras el que nada volverá a ser igual.</p>
+<p>&nbsp;</p>
+<p>Esta novela es otra de las obras maestras de Murakami, como casi todo lo que escribe este escritor, una novela que te engancha de la primera a la última hoja. Su estilo es fluido y los giros que sufre la historia son tan bruscos, que nunca te los esperas.</p>
+<p>Como la anterior novela de Murakami ya recomendada, es apta para todos los públicos y para todas las edades.</p>
+<p>&nbsp;</p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/mk/" rel="tag">MK!</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/31/critica-literaria-sputnik-mi-amor-murakami/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/" rel="category tag">Crítica literaria</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-550" class="post-550 post type-post status-publish format-standard hentry category-critica-literaria tag-mk">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/27/critica-literaria-al-sur-de-la-frontera-al-oeste-del-sola/" rel="bookmark" title="Crítica literaria: «Al sur de la frontera, al oeste del&nbsp;sol»A">Crítica literaria: «Al sur de la frontera, al oeste del&nbsp;sol»A</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/27/critica-literaria-al-sur-de-la-frontera-al-oeste-del-sola/">
+		<span class="day">27</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p><em>Al sur de la frontera, al oeste del sol</em> de Haruki Murakami, narra la historia de Hajime, el cual vive una existencia relativamente feliz ya que se ha casado y ha tenido dos niñas a la vez que regenta un club de jazz, pero cuando se reencuentra con Shimamoto, su mejor amiga de la infancia, la atracción entre ellos renace. Hajime parece dispuesto a dejarlo todo por ella&#8230;</p>
+<p>Una historia sobre amores perdidos y recobrados, sobre la consumación de una promesa de plenitud, que destila la indefinible sensación de desajuste con el mundo que acucia al hombre contemporáneo.</p>
+<p>Como casi todas las obras de este autor, <em>Al sur de la frontera, al oeste del sol,</em> es un relato apasionante, en primera persona, por lo que en todo momento sabemos lo que siente el protagonista, el cual sufre inalterablemente el paso de los años. No es solo una historia de amor, es una historia para pensar que, estoy segura, no dejará indiferente a nadie. Es 100% recomendable para todos aquellos que, a causa de la falta de tiempo, no puedan leer demasiado, pues es un libro claro y conciso, como estoy empezando a descubrir en Murakami, no se anda con rodeos, dice lo que tiene que decir, aunque a veces debes pararte un poco a pensar el significado de las palabras.<a href="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg"><br />
+<img data-attachment-id="551" data-permalink="https://ourcoffeeklatsch.wordpress.com/2013/07/27/critica-literaria-al-sur-de-la-frontera-al-oeste-del-sola/al-sur-de-la-frontera-al-oeste-del-sol/" data-orig-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg" data-orig-size="276,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Al sur de la frontera al oeste del sol" data-image-description="" data-image-caption="" data-medium-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg?w=207" data-large-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg?w=276" class="size-full wp-image-551 alignleft" alt="Al sur de la frontera al oeste del sol" src="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg?w=490"   srcset="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg 276w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/al-sur-de-la-frontera-al-oeste-del-sol.jpg?w=104&amp;h=150 104w" sizes="(max-width: 276px) 100vw, 276px" /></a></p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/mk/" rel="tag">MK!</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/27/critica-literaria-al-sur-de-la-frontera-al-oeste-del-sola/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/" rel="category tag">Crítica literaria</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-548" class="post-548 post type-post status-publish format-standard hentry category-relatos tag-mk-terror">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/22/gato-negro/" rel="bookmark" title="Gato Negro">Gato Negro</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/22/gato-negro/">
+		<span class="day">22</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p>Desde siempre los gatos negros son símbolo de mala suerte y, si ves uno, santíguate. Un gato siempre salvaje, nunca hace caso a nadie, a no ser que le interese, pero tienen un radar, un sexto sentido, siempre saben lo que va a pasar.</p>
+<p>Los gatos (m)aúllan a la luna, como los lobos, y duermen al sol, como las alimañas nocturnas.</p>
+<p>Esta es la historia de un gato negro, el gato de la muerte. Nadie sabe de dónde vino ni a dónde fue, nadie le puso nombre y nadie le daba de comer, pero, como todos los gatos, era extremadamente inteligente y siempre se salvaba de todos los peligros que le acechaban.</p>
+<p>Fue expulsado del pueblo miles de veces, pero siempre volvía, era como un pequeño demonio, una bruja que auguraba la muerte, era el heraldo de la muerte. Si por la noche lo oías maullar bajo tu ventana, ibas a morir, porque lo extraño de este gato era que solo los elegidos podían oír su maullido, los elegidos para hacer un viaje sin retorno al más allá…</p>
+<p>Alguna vez trataron de matarlo, pero nunca lo lograron, huía como alma que lleva el diablo y se escondía, nadie sabía muy bien donde, y esa noche, los que habían osado acercarse al gato, sufrían extraños accidentes…</p>
+<p>Un buen día el gato desapareció del pueblo, nadie se dio cuenta hasta que comprobaron que las muertes habían disminuido, y se alegraron, aunque siempre en su interior estuvo el miedo a que el gato apareciera y volviera a condenarlos.</p>
+<p>MK!</p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/mk-terror/" rel="tag">MK! Terror</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/22/gato-negro/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/relatos/" rel="category tag">Relatos</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-540" class="post-540 post type-post status-publish format-standard hentry category-critica-literaria tag-moniqueallanpoe">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/06/critica-literaria-cincuenta-sombras-de-grey/" rel="bookmark" title="Crítica literaria: «Cincuenta Sombras de&nbsp;Grey»">Crítica literaria: «Cincuenta Sombras de&nbsp;Grey»</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/06/critica-literaria-cincuenta-sombras-de-grey/">
+		<span class="day">6</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p style="text-align:justify;"><span style="color:#000000;">Como por todos es ya conocido, la saga de la autora E. L. James está triunfando entre la literatura adolescente y no tan adolescente y esto me llevó a preguntarme el por qué. ¿Eran libros que realmente merecían la pena por su novedad temática y su caché literario o de nuevo la sociedad había sido víctima de un mero movimiento de masas? Desde luego, si era lo segundo, casi de inmediato habría rechazado leerlos, pero una vez más necesitaba comprobarlo por mí misma.</span></p>
+<p style="text-align:justify;"><span style="color:#000000;">Comencé a leerlo y numerosos hechos se me antojaban demasiado parecidos a otro fenómeno de masas de la autora Stephenie Meyer. Los personajes de E. L. James tenían rasgos de los protagonistas y personajes secundarios de la saga “Crepúsculo”: Christian Grey emulaba un muy atractivo joven rechazado y acogido en un amplio y cálido seno familiar; era cuantiosamente rico pero perturbado y maniático en ciertos aspectos que se enamora de la torpe, dulce e inocente Anastasia por alguna razón que hasta ella misma desconoce. Jose es sin duda un Jacob frustrado que compite por el amor de la chica que está perdidamente enamorada del protagonista; Mia suplanta a la joven y risueña Alice obsesionada por la moda; y el peligroso clan que acosa a Edward y a Bella en su respectiva saga, en cincuenta sombras se trata de una destrozada y celosa exsumisa.<a href="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg"><span style="color:#000000;"><img data-attachment-id="542" data-permalink="https://ourcoffeeklatsch.wordpress.com/2013/07/06/critica-literaria-cincuenta-sombras-de-grey/cincuenta-sombras-de-grey-9788425348839/" data-orig-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg" data-orig-size="650,997" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="cincuenta-sombras-de-grey-9788425348839" data-image-description="" data-image-caption="" data-medium-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=196" data-large-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=490" class="alignright  wp-image-542" alt="cincuenta-sombras-de-grey-9788425348839" src="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=240&#038;h=368" width="240" height="368" srcset="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=240 240w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=480 480w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=98 98w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/cincuenta-sombras-de-grey-9788425348839.jpg?w=196 196w" sizes="(max-width: 240px) 100vw, 240px" /></span></a></span></p>
+<p style="text-align:justify;"><span style="color:#000000;">La similitud tan evidente empezaba a acosarme a cada página que leía y, tras informarme un poco más, descubrí que se trataba de una reciente e innovadora forma de literatura llamada <em>Fanfic</em>. El <em>Fanfic o Fanfiction</em> se trata de escribir una historia propia a raíz de los personajes y sucesos de una obra ya escrita. El <em>Fanfic</em> se efectúa generalmente por fans y se lleva a cabo como un deseo de continuación de una obra ya terminada o imaginar lo que pasaría con la historia si hubiesen sucedido otros hechos.</span></p>
+<p style="text-align:justify;"><span style="color:#000000;">Al enterarme de aquello, la obra de E. L. James perdió inmediatamente credibilidad y me pregunté si esta autora merecía el reconocimiento que se le estaba dando. A nivel literario, el libro deja sin duda mucho que desear y los hechos siguen un guion que ni si quiera ha estructurado ella. Siempre es más fácil escribir en paralelo que enfrentarse a un papel en blanco exprimiendo toda la creatividad.</span></p>
+<p style="text-align:justify;"><span style="color:#000000;">El libro, pese a estar lejos de hacer reflexionar al lector, cumple el fin para el que creo que fue creado: entretener. La trama avanza rápido y los sucesos mantienen alerta al lector; sin obviar que el tema del sexo depravado es por sí un imán para todos aquellos que, con o sin pareja, necesitan escapar de su propia rutina y dejar aflorar esa chispa de perversión que, en mayor o menor medida, tenemos todos.</span></p>
+<p style="text-align:justify;"><span style="color:#000000;">Es recomendable si deseas una lectura ligera con un fin únicamente lúdico, pero si eres una persona con un gusto literario exigente, desde mi perspectiva, esta trilogía está lejos de ser para ti.</span></p>
+<p style="text-align:justify;"><span style="color:#000000;">(MoniqueAllanPoe)</span></p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/moniqueallanpoe/" rel="tag">MoniqueAllanPoe</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/06/critica-literaria-cincuenta-sombras-de-grey/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/critica-literaria/" rel="category tag">Crítica literaria</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-532" class="post-532 post type-post status-publish format-standard hentry category-mar-de-pensamientos tag-moniqueallanpoe">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/05/la-parte-oscura-del-yin-yang/" rel="bookmark" title="La parte oscura del Yin&nbsp;Yang">La parte oscura del Yin&nbsp;Yang</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/05/la-parte-oscura-del-yin-yang/">
+		<span class="day">5</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p style="text-align:justify;">Su caída era previsible, pero nadie era capaz de imaginar que sería desde tanta altura. La ostia fue impresionante. Su cuerpo quedó intacto, y su mentalidad materialista y superficial resopló de alivio. No obstante, sus pilares se destruyeron junto con sus valores, con sus sueños, con su futuro.</p>
+<p style="text-align:justify;">Ah… Era como un famoso que tras ser lanzado al estrellato toca techo y desciende todo de golpe. Bien podría darse a las drogas, a la bebida o incluso suicidarse, como alguno de esos artistas. Pero no, él vive consumido en su dolor, en su guarida. Sigue haciendo lo que le gusta, aunque ya no hay aplausos desde las gradas y el foco se niega a apuntarle a él. Ya no hay vítores ni aplausos y toda su puesta en escena es pasto del abandono. Ahora actúa solo para sí mismo y es completamente consciente de que hacerlo es un sinsentido.</p>
+<p style="text-align:justify;">Sí, es consciente, claro que lo es; claro que le consume y nubla su alma tal situación; claro que tiene ganas de llorar y gritar, y tirarse de los pelos y clavarse sus propias cadenas en la piel, sumido en la frustración. Pero el orgullo no le permite hacer nada de eso. Sus pensamientos son introspectivos, su dolor también lo es. Y, hoy en día, tiene la cabeza mucho más alta que su autoestima.</p>
+<p style="text-align:justify;">Ahora su alma habita en una catedral en ruinas que nunca llegó a terminarse, donde la hiedra y el musgo se adhieren a las paredes y la humedad cava túneles en la piedra. Vive en aquel lugar melancólico aislado de todo contacto con la sociedad, sentándose a recordar o a imaginar. Cuando recuerda su alma se llena de dicha y odio a la vez. Cuando imagina, busca un futuro, una alternativa que sabe que ya no existe.</p>
+<p style="text-align:justify;">Un día de aquellos muchos de gloria, recuerdo que le advertí acerca de la fórmula de la inmortalidad, de que las huellas que realmente se impriman no se hacen sobre papel, sino sobre los corazones de las personas a las que queremos. Recuerdo que le dije que las personas son personas y no etapas, que la gente siente con la misma intensidad con que él lo hace, que nosotros lo hacemos. Pero tras la caída comprendí que la lección no debería ser para él, sino para mí: Una chiquilla no puede cambiar el mundo, ni tampoco curar las profundas llagas del pasado de un niño que ha sufrido tanto y cuyo sufrimiento le llevaría inevitablemente a convertirse en la persona desolada que hoy es.</p>
+<p style="text-align:center;"><img data-attachment-id="534" data-permalink="https://ourcoffeeklatsch.wordpress.com/2013/07/05/la-parte-oscura-del-yin-yang/black_and_white_wings_____wallpaper_0qytv/" data-orig-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg" data-orig-size="350,250" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Black_and_White_wings_____Wallpaper_0qytv" data-image-description="" data-image-caption="" data-medium-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=300" data-large-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=350" loading="lazy" class=" wp-image-534 aligncenter" alt="Black_and_White_wings_____Wallpaper_0qytv" src="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=280&#038;h=200" width="280" height="200" srcset="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=280&amp;h=200 280w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=150&amp;h=107 150w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg?w=300&amp;h=214 300w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/black_and_white_wings_____wallpaper_0qytv.jpg 350w" sizes="(max-width: 280px) 100vw, 280px" /></p>
+<p style="text-align:center;">Y ahora yo soy la estúpida parte del yin yang que se ha llevado toda la felicidad.</p>
+<p style="text-align:center;">(MoniqueAllanPoe)</p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/moniqueallanpoe/" rel="tag">MoniqueAllanPoe</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/05/la-parte-oscura-del-yin-yang/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/mar-de-pensamientos/" rel="category tag">Mar de pensamientos</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+                
+<div id="post-529" class="post-529 post type-post status-publish format-standard hentry category-tiempo-de-poesia tag-moniqueallanpoe">
+
+	
+	<h2 class="title"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/03/danza-pos-mortem/" rel="bookmark" title="Danza Pos Mortem">Danza Pos Mortem</a></h2>
+	<a class="date" href="https://ourcoffeeklatsch.wordpress.com/2013/07/03/danza-pos-mortem/">
+		<span class="day">3</span>
+		<span class="month">Jul</span>
+	</a>
+
+	
+
+	<div class="entry">
+		<p style="text-align:center;"><span style="color:#ff0000;">Con lujosa pedrería,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">ataviadas van de gala;</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">De muy fina filigrana,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">coronas de orfebrería.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Y dícese que un buen día</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">alzaron al cielo sus cantos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">en la noche de los santos</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">y volvieron a la vida.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> </span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Volvieron pues los caídos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">al lloro de sus doncellas,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">¡qué será sino de ellas</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> si sus llantos son baldíos!</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Y sonriendo como críos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">alzáronse de sus losas</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">y entre muchas otras cosas,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">sonaron ciento un crujidos.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> </span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">De sus huesos los chasquidos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">el vacío de su alma,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Permaneció todo en calma</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">sin casi apenas sonidos.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Que fueron reyes vencidos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> lo olvidaron muy temprano,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">y las doncellas, en vano,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">se envolvieron en gemidos.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> </span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Pues no era lo que esperaban,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> las tan hermosas mujeres,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> que guardaban sus enseres</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> por si tal vez regresaban.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">No era lo que deseaban,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> las pobres viudas doradas,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">que secaron las espadas,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">y que ahora solo observaban.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> </span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Y así los acometidos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> murmuran rezos escuetos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> bailan pues los esqueletos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> y parecen divertidos.</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> Y a la vida están asidos,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> y han hecho del cementerio,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> un lugar de gran misterio,</span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"> y sobre la muerte, sus nidos. </span></p>
+<p style="text-align:center;"><span style="color:#808080;"><em>(MoniqueAllanPoe)</em></span></p>
+<p style="text-align:center;">
+<p style="text-align:center;"><a href="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg"><img data-attachment-id="530" data-permalink="https://ourcoffeeklatsch.wordpress.com/2013/07/03/danza-pos-mortem/tumba/" data-orig-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg" data-orig-size="259,194" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="tumba" data-image-description="" data-image-caption="" data-medium-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg?w=259" data-large-file="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg?w=259" loading="lazy" class="aligncenter size-full wp-image-530" alt="tumba" src="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg?w=490"   srcset="https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg 259w, https://ourcoffeeklatsch.wordpress.com/wp-content/uploads/2013/07/tumba.jpg?w=150&amp;h=112 150w" sizes="(max-width: 259px) 100vw, 259px" /></a></p>
+				<p class="entry-tags">Etiquetas: <a href="https://ourcoffeeklatsch.wordpress.com/tag/moniqueallanpoe/" rel="tag">MoniqueAllanPoe</a></p>			</div>
+
+	<div class="post-meta">
+
+		<ul class="single-author-meta">
+						<li class="comments">
+				<span class="head">Comentarios</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/2013/07/03/danza-pos-mortem/#respond">Deja un comentario</a></span>
+			</li>
+						<li class="categories">
+				<span class="head">Categorías</span>
+				<span class="body"><a href="https://ourcoffeeklatsch.wordpress.com/category/tiempo-de-poesia/" rel="category tag">Tiempo de poesía</a></span>
+			</li>
+					</ul>
+
+		<div class="fix"></div>
+
+	</div><!-- /.post-meta -->
+
+</div><!-- /.post -->
+			
+						<div class="more_entries">
+			    <div class="fl"><a href="https://ourcoffeeklatsch.wordpress.com/page/2/" >&larr; Older Entries</a></div>
+				<div class="fr"></div>
+			    <br class="fix" />
+			</div>
+			
+		</div><!-- /#main -->
+
+        <div id="sidebar" class="col-right">
+	
+	<!-- Widgetized Sidebar -->
+	
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<h3>Entradas recientes</h3>
+		<ul>
+											<li>
+					<a href="https://ourcoffeeklatsch.wordpress.com/2016/05/21/hola-de-nuevo/">Hola de nuevo</a>
+									</li>
+											<li>
+					<a href="https://ourcoffeeklatsch.wordpress.com/2013/11/03/aturdes-mis-sentidos/">Aturdes mis sentidos</a>
+									</li>
+											<li>
+					<a href="https://ourcoffeeklatsch.wordpress.com/2013/09/16/recomendacion-literaria-el-ciclo-de-la-luna-roja/">Recomendación literaria: «El ciclo de la Luna&nbsp;Roja»</a>
+									</li>
+											<li>
+					<a href="https://ourcoffeeklatsch.wordpress.com/2013/08/05/cuerpo-humano/">Cuerpo humano</a>
+									</li>
+											<li>
+					<a href="https://ourcoffeeklatsch.wordpress.com/2013/07/31/critica-literaria-sputnik-mi-amor-murakami/">Crítica literaria: «Sputnik, mi amor»&nbsp;Murakami</a>
+									</li>
+					</ul>
+
+		</div><div id="twitter-2" class="widget widget_twitter"><h3><a href='http://twitter.com/InkTies'>Actualizaciones de Twitter</a></h3><a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/InkTies">Tuits de InkTies</a></div><div id="archives-2" class="widget widget_archive"><h3>Archivos</h3>
+			<ul>
+					<li><a href='https://ourcoffeeklatsch.wordpress.com/2016/05/'>mayo 2016</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/11/'>noviembre 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/09/'>septiembre 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/08/'>agosto 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/07/'>julio 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/06/'>junio 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/05/'>mayo 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/04/'>abril 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/03/'>marzo 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/02/'>febrero 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2013/01/'>enero 2013</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/11/'>noviembre 2012</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/09/'>septiembre 2012</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/08/'>agosto 2012</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/07/'>julio 2012</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/06/'>junio 2012</a></li>
+	<li><a href='https://ourcoffeeklatsch.wordpress.com/2012/04/'>abril 2012</a></li>
+			</ul>
+
+			</div><div id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>septiembre 2025</caption>
+	<thead>
+	<tr>
+		<th scope="col" aria-label="lunes">L</th>
+		<th scope="col" aria-label="martes">M</th>
+		<th scope="col" aria-label="miércoles">X</th>
+		<th scope="col" aria-label="jueves">J</th>
+		<th scope="col" aria-label="viernes">V</th>
+		<th scope="col" aria-label="sábado">S</th>
+		<th scope="col" aria-label="domingo">D</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td id="today">22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Meses anteriores y posteriores" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://ourcoffeeklatsch.wordpress.com/2016/05/">&laquo; May</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></div><div id="categories-2" class="widget widget_categories"><h3>Cultura que te regalo</h3><form action="https://ourcoffeeklatsch.wordpress.com" method="get"><label class="screen-reader-text" for="cat">Cultura que te regalo</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Elegir la categoría</option>
+	<option class="level-0" value="336515">Crítica literaria&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="137268456">Domingo de Autores&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="103418291">Los blogs de InkTies.&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="94542011">Mar de pensamientos&nbsp;&nbsp;(23)</option>
+	<option class="level-0" value="435941">Películas y series&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="10567">Psicología&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="12290870">Quote time&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="9503">Relatos&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="106948">Take it easy&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="37725867">Tiempo de poesía&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(16)</option>
+</select>
+</form><script type="text/javascript">
+/* <![CDATA[ */
+
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+
+/* ]]> */
+</script>
+</div><div id="meta-2" class="widget widget_meta"><h3>Meta</h3>
+		<ul>
+			<li><a class="click-register" href="https://wordpress.com/start/es?ref=wplogin">Crear cuenta</a></li>			<li><a href="https://ourcoffeeklatsch.wordpress.com/wp-login.php">Iniciar sesión</a></li>
+			<li><a href="https://ourcoffeeklatsch.wordpress.com/feed/">Feed de entradas</a></li>
+			<li><a href="https://ourcoffeeklatsch.wordpress.com/comments/feed/">Feed de comentarios</a></li>
+
+			<li><a href="https://wordpress.com/" title="Gestionado con WordPress, una avanzada plataforma semántica de publicación personal.">WordPress.com</a></li>
+		</ul>
+
+		</div><!-- Invalid Facebook Page URL -->
+</div><!-- /#sidebar -->
+
+    </div><!-- /#content -->
+
+
+			<div id="extended-footer">
+
+			<div class="col-full">
+
+				<div class="block one">
+					<div id="text-2" class="widget widget_text">			<div class="textwidget"><img class="alignnone size-full wp-image-1311" src="https://inkties.files.wordpress.com/2016/11/cadena_de_comentarios_entre_libros_y_tintas_cdc.jpg" alt="cadena_de_comentarios_entre_libros_y_tintas_cdc" width="241" height="320" /></div>
+		</div>				</div><!-- /.block -->
+
+				<div class="block two">
+					&nbsp;				</div><!-- /.block -->
+
+				<div class="block three">
+					&nbsp;				</div><!-- /.block -->
+
+			</div><!-- /.col-full -->
+
+		</div><!-- /#extended-footer -->
+	
+	<div id="footer">
+
+		<div class="col-full">
+
+			<div id="copyright" class="col-left">
+				<a href="https://wordpress.com/es/?ref=footer_blog" rel="nofollow">Blog de WordPress.com.</a>
+			</div>
+
+			<div id="credit" class="col-right">
+							</div>
+
+		</div><!-- /.col-full -->
+
+	</div><!-- /#footer -->
+
+</div><!-- /#container -->
+		<script type="text/javascript">
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"https:\/\/ourcoffeeklatsch.wordpress.com\/?infinity=scrolling","type":"click","wrapper":true,"wrapper_class":"infinite-wrap","footer":true,"click_handle":"1","text":"Entradas anteriores","totop":"Ir arriba","currentday":"03.07.13","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":1,"history":{"host":"ourcoffeeklatsch.wordpress.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"all","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"lazy_load_term_meta":false,"posts_per_page":10,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"query_before":"2025-09-22 17:43:43","last_post_date":"2013-07-03 22:41:13","body_class":"infinite-scroll","loading_text":"Cargando p\u00e1gina nueva","stats":"blog=34981007&v=wpcom&tz=0&user_id=0&arch_home=1&subd=ourcoffeeklatsch&x_pagetype=infinite-click"}};
+		</script>
+		<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/pub\/bueno\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202539924dcd77a86c6f1d3698ec27fc5da92b28585ddad3ee636c0397cf312193b2a1" id="grofiles-cards-js"></script>
+<script type="text/javascript" id="wpgroho-js-extra">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile →': 'Edita tu perfil →',
+							'View profile →': 'Ver perfil →',
+							'Contact': 'Contacto',
+							'Send money': 'Enviar dinero',
+							'Sorry, we are unable to load this Gravatar profile.': 'No hemos podido cargar este perfil de Gravatar.',
+							'Gravatar not found.': 'Gravatar not found.',
+							'Too Many Requests.': 'Demasiadas solicitudes.',
+							'Internal Server Error.': 'Error interno del servidor.',
+							'Is this you?': '¿Eres tú?',
+							'Claim your free profile.': 'Claim your free profile.',
+							'Email': 'Correo electrónico',
+							'Home Phone': 'Teléfono de casa',
+							'Work Phone': 'Teléfono de trabajo',
+							'Cell Phone': 'Cell Phone',
+							'Contact Form': 'Formulario de contacto',
+							'Calendar': 'Calendario',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'delaware', 'indiana', 'iowa', 'montana', 'new jersey', 'oregon', 'tennessee', 'texas', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+				<div id="actionbar" dir="ltr" style="display: none;"
+			class="actnbr-pub-bueno actnbr-has-follow actnbr-has-actions">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>Suscribirse</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Suscrito</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://ourcoffeeklatsch.wordpress.com">
+				<img loading='lazy' alt='' src='https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' srcset='https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=75&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=100&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=150&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=200&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x' class='avatar avatar-50' height='50' width='50' />				Ourcoffeeklatsch			</a>
+		</li>
+										<div class="actnbr-message no-display"></div>
+									<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																				<div>
+										<input type="email" name="email" placeholder="Introduce tu dirección de correo electrónico" class="actnbr-email-field" aria-label="Introduce tu dirección de correo electrónico" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="34981007" />
+										<input type="hidden" name="source" value="https://ourcoffeeklatsch.wordpress.com/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="7b8c5812f6" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Suscríbeme">
+												Suscríbeme											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											¿Ya tienes una cuenta de WordPress.com? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fourcoffeeklatsch.wordpress.com%2F2016%2F05%2F21%2Fhola-de-nuevo%2F&#038;signup_flow=account">Inicia sesión</a>.										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+									<li class="actnbr-btn actnbr-hidden no-display" onclick="javascript:__tcfapi( 'showUi' );">
+						<a class="actnbr-action actnbr-actn-privacy" href="#">
+							<svg class="gridicon gridicons-info-outline" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M13 9h-2V7h2v2zm0 2h-2v6h2v-6zm-1-7c-4.41 0-8 3.59-8 8s3.59 8 8 8 8-3.59 8-8-3.59-8-8-8m0-2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2z"/></g></svg>							<span>Privacidad						</span>
+						</a>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+								<li class="actnbr-sitename">
+			<a href="https://ourcoffeeklatsch.wordpress.com">
+				<img loading='lazy' alt='' src='https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' srcset='https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=75&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=100&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=150&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/735cd5b18cc19668b7158264effef0c622610be0354cf82ceab8e7d3e42bbfcd?s=200&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x' class='avatar avatar-50' height='50' width='50' />				Ourcoffeeklatsch			</a>
+		</li>
+								<li class="actnbr-folded-follow">
+										<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>Suscribirse</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Suscrito</span>
+		</a>
+								</li>
+														<li class="actnbr-signup"><a href="https://wordpress.com/start/">Regístrate</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fourcoffeeklatsch.wordpress.com%2F2016%2F05%2F21%2Fhola-de-nuevo%2F&#038;signup_flow=account">Iniciar sesión</a></li>
+															<li class="flb-report">
+									<a href="https://wordpress.com/abuse/?report_url=https://ourcoffeeklatsch.wordpress.com" target="_blank" rel="noopener noreferrer">
+										Denunciar este contenido									</a>
+								</li>
+															<li class="actnbr-reader">
+									<a href="https://wordpress.com/reader/feeds/2887063">
+										Ver el sitio en el Lector									</a>
+								</li>
+															<li class="actnbr-subs">
+									<a href="https://subscribe.wordpress.com/">Gestionar las suscripciones</a>
+								</li>
+																<li class="actnbr-fold"><a href="">Contraer esta barra</a></li>
+														</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?m=1750255835i&amp;v=20250116";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?m=1738713573i&amp;v=20250204";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Cambiar la visibilidad de los metadatos de las fotos">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Cambiar la visibilidad de los comentarios de las fotos">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="Esta imagen tiene comentarios."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Cargando comentarios...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Escribe un comentario...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Escribe un comentario..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Correo electrónico (Obligatorio)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Nombre (Obligatorio)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Web</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Publicar comentario" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" href="#" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-2' href='/_static/??-eJydjdEKwjAMRX/IGqaT+SJ+inRZGN3SpDQtw78Xwe1Rxh7P4XIuLMmhSiEpEKtLXMcgBhOV5HH+MURVgVcQhJ4VZwNbQqJ8RrMT7C9EHSqTAfqs1Yi30SqOBktgGtzomSm//9H34BkfTXe7Xu5t17TTB3k+YIU=&cssminify=yes' type='text/css' media='all' />
+<script type="text/javascript" id="jetpack-facebook-embed-js-extra">
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"es_ES"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-carousel-js-extra">
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"https:\/\/s2.wp.com\/wp-content\/mu-plugins\/jetpack-plugin\/moon\/_inc\/blocks\/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/ourcoffeeklatsch.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"97b7693554","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comentario","post_comment":"Publicar comentario","write_comment":"Escribe un comentario...","loading_comments":"Cargando comentarios...","image_label":"Abre la imagen a pantalla completa.","download_original":"Ver tama\u00f1o completo <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Por favor, aseg\u00farate de enviar el texto con tu comentario.","no_comment_email":"Por favor, proporciona una direcci\u00f3n de correo electr\u00f3nico para comentar.","no_comment_author":"Por favor, a\u00f1ade tu nombre al comentario.","comment_post_error":"Lo sentimos, pero ha habido un error al publicar tu comentario. Por favor, vuelve a intentarlo m\u00e1s tarde.","comment_approved":"Se ha aprobado tu comentario.","comment_unapproved":"Tu comentario est\u00e1 en moderaci\u00f3n.","camera":"C\u00e1mara","aperture":"Abertura","shutter_speed":"Velocidad de obturaci\u00f3n","focal_length":"Longitud focal","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/ourcoffeeklatsch.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fourcoffeeklatsch.wordpress.com%2F2013%2F08%2F05%2Fcuerpo-humano%2F","blog_id":"34981007","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=34981007&v=wpcom&tz=0&user_id=0&arch_home=1&subd=ourcoffeeklatsch","is_public":"1"};
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydj80KgzAQhF+ocWmp6KX0UUp+Vknc7IpJlL59W1ApvRQ8DTPMDHywjMoKZ+QMhqRXI5Xec4JFJqddUpZ0SpggvCOdSc2XKqQTfM1i2UcB86jtsHqIIgwPzxZM8eTAc+fZZ1TJTkK0+WcVPR957bRFIzIojAbd78M/HBtHmC8fqUxhR3gczOpJSkLae1uwkt3j7dzUdds07bUOLxiEimo='></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=20111117" id="twitter-widgets-js"></script>
+<script type="text/javascript" crossorigin='anonymous' src="https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js?m=1755006225i&amp;ver=15.1-a.8" id="tiled-gallery-js" defer="defer" data-wp-strategy="defer"></script>
+<script crossorigin='anonymous' type='text/javascript'  src='https://s0.wp.com/wp-content/mu-plugins/carousel-wpcom/carousel-wpcom.js?m=1620989527i'></script>
+
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+		<script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["jetpack-mu-wpcom-settings","rlt-proxy","cmp-script-stub","wpcom-actionbar-placeholder","jquery-core","jquery-migrate","jquery","general","grofiles-cards","wpgroho","wordads-client","the-neverending-homepage","jetpack-facebook-embed","cmp-script","jetpack-carousel","twitter-widgets","tiled-gallery","carousel-wpcom"] );
+				extend( window.infiniteScroll.settings.styles, ["free-site-marketing-bar","the-neverending-homepage","infinity-bueno","wp-block-library","jetpack-layout-grid","jetpack-ratings","mediaelement","wp-mediaelement","coblocks-frontend","wpcom-core-compat-playlist-styles","wpcom-text-widget-styles","wpcom-bbpress2-staff-css","bueno","reblogging","geo-location-flair","a8c-global-print","h4-global","wp-emoji-styles","classic-theme-styles","videopress-video-style","jetpack-sharing-buttons-style","global-styles","jetpack_facebook_likebox","jetpack-global-styles-frontend-style","jetpack-swiper-library","jetpack-carousel","tiled-gallery","core-block-supports-duotone"] );
+			})();
+		</script>
+				<span id="infinite-aria" aria-live="assertive"></span>
+		<script src="//stats.wp.com/w.js?68" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'34981007','blog_tz':'0','user_lang':'es','blog_lang':'es','user_id':'0'}]);
+_stq.push(['view', {'blog':'34981007','v':'wpcom','tz':'0','user_id':'0','arch_home':'1','subd':'ourcoffeeklatsch'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdTdvUG14Q2VDQTR4LlUsLi82dU1mai9BMjI2X111Q1VGODUmdltlb2tKanosNHAzR1slQ2lGWCU/c0xfcCZpbWs9NHV6M24vTXpoejUzNTlLYyZPT3pyW0wwKzFJQz98WFFRSj1pXXlFLXFlVV9US2djMyVpMi9vZEdhJlhpUnNjaC09Q2xOUjllSlAmZC03by1zb0w9VVN0Jkp1emgvRjUrW3ZOZjViZjIzMWg/azhPbEIvUFRsW3lHQ08rZy1NJTd6R00xWHJhbStEPU84K1F0fHJfbD1pXVJCLE5IdGNwd084bnozOEc/V1ZacHdHT0hkeFF5RHZKRFlZZWMra0NnU2Z1LFVHQTlwRmlZUVBqTm1wMm9Kam9NODdUdnhhend6Wno3W3I4M1JNanJOa1pSMjk='}]);
+_stq.push([ 'clickTrackerInit', '34981007', '0' ]);
+</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Etc/GMT-0" data-custom-props="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/bueno&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"  >
+		<script defer src="/wp-content/js/bilmur.min.js?i=16&amp;m=202539"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Diseña un sitio como este con WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/es/?ref=marketing_bar">Comenzar</a><a class="marketing-bar-link" tabindex="-1" aria-label="Crea tu página web en WordPress.com" href="https://wordpress.com/es/?ref=marketing_bar"></a></div>		<script type="text/javascript">
+			window._tkq = window._tkq || [];
+
+			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
+
+			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
+				link.addEventListener( 'click', ( e ) => {
+					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
+				} );
+			});
+		</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>viviendoentrehis</ShortName>
+	<Description>Search Viviendo entre historias - Un rincón para amantes de las historias, de los libros y de los personajes ficticios. Doy mi opinión sobre libros.</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://viviendoentrehistoriass.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://viviendoentrehistoriass.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://viviendoentrehistoriass.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://viviendoentrehistoriass.wordpress.com/osd.xml" />
+	<LongName>Viviendo entre historias</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://viviendoentrehistoriass.wordpress.com/wp-content/uploads/2018/12/cropped-marcadeagua.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://viviendoentrehistoriass.wordpress.com/wp-content/uploads/2018/12/cropped-marcadeagua.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>romance resena editorial-planeta planeta-de-libros penguin-random-house romantica genero-romantico thriller editorial-planeta-de-libros fantasia</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>es</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://viviendoentrehistoriass.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>

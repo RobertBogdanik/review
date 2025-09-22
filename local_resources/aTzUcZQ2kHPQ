@@ -1,0 +1,3843 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='es'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/4128112664-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://buscandoundandy.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://buscandoundandy.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Buscando un dandy - Atom" href="http://buscandoundandy.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Buscando un dandy - RSS" href="http://buscandoundandy.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Buscando un dandy - Atom" href="https://www.blogger.com/feeds/8435634224993115331/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/10038195195969488113" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://buscandoundandy.blogspot.com/' property='og:url'/>
+<meta content='Buscando un dandy' property='og:title'/>
+<meta content='' property='og:description'/>
+<title>Buscando un dandy</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Watermark
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+/* Use this with templates/1ktemplate-*.html */
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 15px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #000000;
+background: #ca0e0e url(//themes.googleusercontent.com/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3) repeat-x fixed top center /* Credit: Jason Morrow (http://jasonmorrow.etsy.com) */;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+.content-outer {
+font-size: 92%;
+}
+a:link {
+text-decoration:none;
+color: #7f000c;
+}
+a:visited {
+text-decoration:none;
+color: #000000;
+}
+a:hover {
+text-decoration:underline;
+color: #000000;
+}
+.body-fauxcolumns .cap-top {
+margin-top: 30px;
+background: transparent none no-repeat scroll center center;
+height: 400px;
+}
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 20px;
+padding-right: 20px;
+}
+.Header h1 {
+font: normal normal 60px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #cc0033;
+text-shadow: 2px 2px rgba(0, 0, 0, .1);
+}
+.Header h1 a {
+color: #cc0033;
+}
+.Header .description {
+font-size: 140%;
+color: #ffffff;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section {
+margin: 0 20px;
+}
+.tabs-inner .PageList, .tabs-inner .LinkList, .tabs-inner .Labels {
+margin-left: -11px;
+margin-right: -11px;
+background-color: transparent;
+border-top: 3px solid #ffffff;
+border-bottom: 3px solid #ffffff;
+-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+-goog-ms-box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+}
+.tabs-inner .PageList .widget-content,
+.tabs-inner .LinkList .widget-content,
+.tabs-inner .Labels .widget-content {
+margin: -3px -11px;
+background: transparent url(//www.blogblog.com/1kt/watermark/tabs_background_right_bubblegum.png)  no-repeat scroll right;
+}
+.tabs-inner .widget ul {
+padding: 2px 25px;
+max-height: 34px;
+background: transparent url(//www.blogblog.com/1kt/watermark/tabs_background_left_bubblegum.png) no-repeat scroll left;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .25em 1em;
+font: normal normal 20px Impact, sans-serif;
+color: #e06666;
+border-right: 1px solid transparent;
+}
+.tabs-inner .widget li:first-child a {
+border-left: 1px solid transparent;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #7b1b1b;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #2c1583;
+margin: 0 0 .5em;
+}
+h2.date-header {
+font: normal bold 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #ca0e0e;
+}
+/* Main
+----------------------------------------------- */
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+.main-outer {
+margin-top: 0;
+background: transparent none no-repeat scroll top left;
+}
+.main-inner {
+padding-top: 30px;
+}
+.main-cap-top {
+position: relative;
+}
+.main-cap-top .cap-right {
+position: absolute;
+height: 0;
+width: 100%;
+bottom: 0;
+background: transparent none repeat-x scroll bottom center;
+}
+.main-cap-top .cap-left {
+position: absolute;
+height: 245px;
+width: 280px;
+right: 0;
+bottom: 0;
+background: transparent none no-repeat scroll bottom left;
+}
+/* Posts
+----------------------------------------------- */
+.post-outer {
+padding: 15px 20px;
+margin: 0 0 25px;
+background: #ffcbc1 none repeat scroll top left;
+_background-image: none;
+border: solid 6px #c30032;
+-moz-box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+}
+h3.post-title {
+font: normal bold 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+margin: 0;
+}
+.comments h4 {
+font: normal bold 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+margin: 1em 0 0;
+}
+.post-body {
+font-size: 105%;
+line-height: 1.5;
+position: relative;
+}
+.post-header {
+margin: 0 0 1em;
+color: #7b6844;
+}
+.post-footer {
+margin: 10px 0 0;
+padding: 10px 0 0;
+color: #7b6844;
+border-top: dashed 1px #ca0e0e;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #ca0e0e;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #ca0e0e;
+border-bottom: 1px solid #ca0e0e;
+}
+.comments .continue {
+border-top: 2px solid #ca0e0e;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+padding: .35em 0;
+text-indent: 0;
+border-top: dashed 1px #ca0e0e;
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+.widget .zippy {
+color: #ca0e0e;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 5px;
+background: #fff;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 8px;
+}
+.post-body .tr-caption-container {
+color: #333333;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#333333;
+background: #ffcbc1 url(//www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left;
+}
+.footer-outer a {
+color: #cc0033;
+}
+.footer-outer a:visited {
+color: #aa0033;
+}
+.footer-outer a:hover {
+color: #aa0033;
+}
+.footer-outer .widget h2 {
+color: #660033;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: 100% auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+html .mobile .mobile-date-outer {
+border-bottom: none;
+background: #ffcbc1 none repeat scroll top left;
+_background-image: none;
+margin-bottom: 10px;
+}
+.mobile .main-inner .date-outer {
+padding: 0;
+}
+.mobile .main-inner .date-header {
+margin: 10px;
+}
+.mobile .main-cap-top {
+z-index: -1;
+}
+.mobile .content-outer {
+font-size: 100%;
+}
+.mobile .post-outer {
+padding: 10px;
+}
+.mobile .main-cap-top .cap-left {
+background: transparent none no-repeat scroll bottom left;
+}
+.mobile .body-fauxcolumns .cap-top {
+margin: 0;
+}
+.mobile-link-button {
+background: #ffcbc1 none repeat scroll top left;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #7f000c;
+}
+.mobile-index-date .date-header {
+color: #ca0e0e;
+}
+.mobile-index-contents {
+color: #000000;
+}
+.mobile .tabs-inner .section {
+margin: 0;
+}
+.mobile .tabs-inner .PageList {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .tabs-inner .PageList .widget-content {
+margin: 0;
+color: #7b1b1b;
+background: #ffcbc1 none repeat scroll top left;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid transparent;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1080px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1080px;
+max-width: 1080px;
+_width: 1080px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 250px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 250px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("250px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 250px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 250px;
+margin-right: -250px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<style>
+    body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3);}
+    
+@media (max-width: 200px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3&options=w200);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3&options=w400);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=0BwVBOzw_-hbMMDZjM2Q4YjctMTY2OC00ZGU2LWJjZDYtODVjOGRiOThlMGQ3&options=w1600);}}
+  </style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8435634224993115331&amp;zx=d485a4f1-7bf6-4e08-9ec8-2d42aa643cf4' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8435634224993115331&amp;zx=d485a4f1-7bf6-4e08-9ec8-2d42aa643cf4' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body class='loading variant-bubblegum'>
+<div class='navbar section' id='navbar' name='Barra de navegación'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar/8435634224993115331?origin\x3dhttp://buscandoundandy.blogspot.com',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Buscando un dandy' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Cabecera'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://buscandoundandy.blogspot.com/' style='display: block'>
+<img alt='Buscando un dandy' height='300px; ' id='Header1_headerimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5_jrpaAF2P0cjABimellIuR2LOwlhyphenhyphenK3ty_Rp9Fp-GdxAWs-14-wStTlIzTgFDxvgb8Im99-nssS73xyGmBjLuIYPUjjRT5CNKzuE003FW7IGUCYUhxyj-FAFpiZhivxPCpUHfiGRTU/s1080/PicMonkey+Collage8.png' style='display: block' width='1030px; '/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Multicolumnas'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Páginas</h2>
+<div class='widget-content'>
+<ul>
+<li class='selected'>
+<a href='http://buscandoundandy.blogspot.com/'>Página principal</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/resenas.html'>Reseñas</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/blog-page.html'>Booktags</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/sobre-mi.html'>Sobre mí</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/wishlist.html'>Wishlist</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/contacto.html'>Contacto</a>
+</li>
+<li>
+<a href='http://buscandoundandy.blogspot.com/p/a-partir-del-dia-25-de-mayo-estara-en.html'>Aviso legal</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Principal'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>lunes, 22 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmjCmHqI6E_2vaxg350WHjTSxKL0zFfR0Zyz6ef3yQobEkRlTkb-SPzf2ce5fon1nXRxStLRzNe0o2OzARu1WZOuPg0FsQwgGNhmRiewYcCO4rGHPHZVFn_487_n-gHRdTrqQ3bkutLZwYWHlrPNCZH17e5xjwf2p6p5rPgbECFNkJsOwqW57qHjUZnp5O/s1600/Wrap%20Up.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='3649618305063820308' itemprop='postId'/>
+<a name='3649618305063820308'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/wrap-up-agosto-2025.html'>WRAP UP AGOSTO 2025</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3649618305063820308' itemprop='description articleBody'>
+<p style="text-align: justify;"><span style="font-family: georgia;">&#161;Hola! &#191;Qué tal? Se acerca el final de septiembre (este mes sí que me está pasando volando) pero yo todavía traigo el resumen de agosto. Fue un mes bastante completo, aunque quizás esperase encontrar lecturas que me atraparan un poco más. Como veis, hay bastantes lecturas veraniegas así que, para los que seáis lectores estacionales, ya llego un poco tarde.</span></p><p style="text-align: justify;"><span style="font-family: georgia;"></span></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmjCmHqI6E_2vaxg350WHjTSxKL0zFfR0Zyz6ef3yQobEkRlTkb-SPzf2ce5fon1nXRxStLRzNe0o2OzARu1WZOuPg0FsQwgGNhmRiewYcCO4rGHPHZVFn_487_n-gHRdTrqQ3bkutLZwYWHlrPNCZH17e5xjwf2p6p5rPgbECFNkJsOwqW57qHjUZnp5O/s200/Wrap%20Up.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="175" data-original-width="200" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmjCmHqI6E_2vaxg350WHjTSxKL0zFfR0Zyz6ef3yQobEkRlTkb-SPzf2ce5fon1nXRxStLRzNe0o2OzARu1WZOuPg0FsQwgGNhmRiewYcCO4rGHPHZVFn_487_n-gHRdTrqQ3bkutLZwYWHlrPNCZH17e5xjwf2p6p5rPgbECFNkJsOwqW57qHjUZnp5O/s1600/Wrap%20Up.jpg" width="200" /></a></div><p></p><ul style="text-align: justify;"><li><span style="font-family: georgia;"><b>"Yo también" no es te quiero- Violeta Reed. 4&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-yo-tambien-no-es-te-quiero.html">AQUÍ</a>. </b>Este libro ha sido toda una sorpresa, y es que no esperaba nada de él. Tanto es así que creo que va a aparecer entre mis mejores lecturas del mes. La química entre los protagonistas me ha parecido una delicia, el romance se va cociendo a fuego muy lento y su tira y afloja es brutal. Me ha parecido una historia preciosa.&nbsp;</span></li><li><span style="font-family: georgia;"><b>Una aventura salvaje- Christina Lauren. 3&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-una-aventura-salvaje-christina.html">AQUÍ</a>. </b>Es un libro que se deja leer, pero el romance falla bastante en su ejecución y resulta una historia un poco aburrida por momentos. Un tanto flojito, pero no está del todo mal.</span></li><li><span style="font-family: georgia;"><b>Rozando el cielo- Liz Tomforde. 4&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-rozando-el-cielo-liz-tomforde.html">AQUÍ</a>.&nbsp;</b>En realidad es una historia muy sencilla, pero yo la he amado por completo. Los protagonistas me han resultado adorables, el romance es muy bonito y la relación es increíblemente sana. Os lo recomiendo mucho.&nbsp;</span></li><li><span style="font-family: georgia;"><b>La serpiente y las alas de la noche- Carissa Broadbent. 2/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-la-serpiente-y-las-alas-de-la.html">AQUÍ</a>. </b>Este libro ha sido una de mis grandes decepciones del mes, y es que me ha costado horrores acabarlo. Es cierto que se lee muy rápido, pero no me ha atrapado en ningún momento, no contiene una trama que me haya interesado. No leeré el siguiente.&nbsp;</span></li><li><span style="font-family: georgia;"><b>Noche de verbena- Raquel Arbeteta. 3&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-noche-de-verbena-raquel-arbeteta.html">AQUÍ</a>. </b>Esta es mi primera experiencia con la autora y no ha estado nada mal. No es la historia del año, pero resulta muy entretenida, cuenta con buenos personajes y es ideal para desconectar. Os la recomiendo.</span></li><li><span style="font-family: georgia;"><b>No la dejes entrar- Nicola Sanders. 3/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-no-la-dejes-entrar-nicola-sanders.html">AQUÍ</a>. </b>Lo que no se puede negar es que este libro me haya atrapado por completo pero, en general, no me ha parecido una buena historia. Me ha resultado sumamente previsible y los personajes no pueden ser más planos.&nbsp;</span></li><li><span style="font-family: georgia;"><b>Cuatro reinos rotos- Mai Corland. 3&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-cuatro-reinos-rotos-mai-corland.html">AQUÍ</a>. </b>Después de una primera parte que me había gustado mucho, reconozco que esta me ha parecido un poco más floja. El planteamiento de la historia sigue siendo bueno, pero considero que este segundo tomo tiene un ritmo muy lento.</span></li><li><span style="font-family: georgia;"><b>Amigos con derecho a roce- Lily Gold. 2/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-amigos-con-derecho-roce-lily-gold.html">AQUÍ</a>. </b>Este libro ya llevaba bastante tiempo en mi estantería y esperaba mucho de él pero la verdad es que me ha parecido todo un despropósito. Los personajes me han caído sumamente mal, el romance no me ha gustado en absoluto y se producen una serie de escenas que me han provocado mucho cringe.</span></li><li><span style="font-family: georgia;"><b>Una propuesta inesperada- Rosalyn Eves. 3&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-una-propuesta-inesperada-rosalyn.html">AQUÍ</a>.&nbsp;</b>Es un libro que no está nada mal y, de hecho, me ha enganchado desde la primera página, pero reconozco que los romances resultan demasiado precipitados y eso le resta un poco de credibilidad a la historia.</span></li><li><span style="font-family: georgia;"><b>&#191;Y a ti qué te pica?- Megan Maxwell. 3&#180;5/5. Reseña&nbsp;<a href="https://buscandoundandy.blogspot.com/2025/08/resena-y-ti-que-te-pica-megan-maxwell.html">AQUÍ</a>. </b>He sentido que este es solo uno más entre los libros de la autora, ya que sigue exactamente el mismo esquema que en los anteriores. Se trata de una historia fresca, divertida y entretenida, pero no aporta nada nuevo.&nbsp;</span></li></ul><p style="text-align: justify;"><span style="font-family: georgia;">Y hasta aquí mi resumen del mes de agosto. Como veis, he tenido lecturas muy variadas y, mientras que algunas han sido excelentes, otras han sido bastante decepcionantes pero, en general, no me quejo en absoluto.</span></p><p><b><span style="font-family: georgia;">Y vosotros, &#191;habéis leído mucho en agosto? &#191;coincidimos en alguna lectura?</span></b></p><p><b><span style="font-family: georgia;">&#161;Un besote! &#161;Nos leemos!&nbsp;</span></b></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/wrap-up-agosto-2025.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/wrap-up-agosto-2025.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-22T11:31:00+02:00'>11:31</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/wrap-up-agosto-2025.html#comment-form' onclick=''>
+4 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=3649618305063820308&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=3649618305063820308&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=3649618305063820308&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=3649618305063820308&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=3649618305063820308&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=3649618305063820308&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>viernes, 19 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfPGZwIXl6Uj1fEOk8myH78zmQGxAId7zvnlXCMaJqmOXh9kPnTuu8o6AY0InnS681W5j4l3OBHxtcoyOpREmzuP1i58kCYoBbTG_BVpNPKHw3YTOQVkkbyxz_VsMpHoaEdiTEULlHF-zayTao9pYDFgh1BDnUeVnfWZoqdp_IwHFikRvas1GnwGy-UJ5c/s320/grimm.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='8206202061388362144' itemprop='postId'/>
+<a name='8206202061388362144'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-grimm-mortal-kathryn-purdie.html'>Reseña El Grimm mortal- Kathryn Purdie</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8206202061388362144' itemprop='description articleBody'>
+<div style="text-align: right;"><br /></div><div style="text-align: left;"><i><span style="font-family: georgia;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfPGZwIXl6Uj1fEOk8myH78zmQGxAId7zvnlXCMaJqmOXh9kPnTuu8o6AY0InnS681W5j4l3OBHxtcoyOpREmzuP1i58kCYoBbTG_BVpNPKHw3YTOQVkkbyxz_VsMpHoaEdiTEULlHF-zayTao9pYDFgh1BDnUeVnfWZoqdp_IwHFikRvas1GnwGy-UJ5c/s1500/grimm.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1500" data-original-width="951" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfPGZwIXl6Uj1fEOk8myH78zmQGxAId7zvnlXCMaJqmOXh9kPnTuu8o6AY0InnS681W5j4l3OBHxtcoyOpREmzuP1i58kCYoBbTG_BVpNPKHw3YTOQVkkbyxz_VsMpHoaEdiTEULlHF-zayTao9pYDFgh1BDnUeVnfWZoqdp_IwHFikRvas1GnwGy-UJ5c/s320/grimm.jpg" width="203" /></a></div>Autora: Kathryn Purdie</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Editorial: Puck</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Nº de páginas: 448</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Precio: 23&#180;50&#8364;</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Tomo: 2/2&nbsp;</span></i></div><p style="text-align: justify;"><i><span style="font-family: georgia;">Tras surgir de las sombras del Bosque Grimm, Clara y Axel regresan a su aldea, el único lugar en el que pueden refugiarse, fuera de los límites del bosque. Sin embargo, cuando los propios árboles empiezan a atraer a los aldeanos, es evidente que la oscuridad a la que se enfrentaron no es más que un atisbo de los verdaderos horrores que se ocultan en su interior.<br />Con el peso de unas visiones perturbadoras y presos de un amor tan peligroso como el bosque maldito que los llama, Clara y Axel deben volver a adentrarse en él para desenterrar los secretos siniestros que alberga su interior. Según luchan contra leñadores asesinos que se valen de acertijos tan afilados como hachas, doncellas espectrales que amenazan con arrastrarlos en una danza eterna y fantasmas capaces de manipular la propia esencia del bosque en su contra, Clara y Axel son conscientes de que jamás habían tenido tanto que perder. Si no logran acabar con la maldición de una vez por todas, lo más probable es que ni siquiera tengan un hogar al que volver.</span></i></p><div style="text-align: justify;"><span style="font-family: georgia;"><b><span style="font-size: large;">Opinión personal:&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: xx-small;"><b><span>*Contiene spoilers del libro anterior*&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Cuando leí la primera parte de este libro no estaba&nbsp;en mi mejor momento a nivel concentración y eso afectaba enormemente a la hora de disfrutar de mis lecturas pero, contra todo pronóstico, me gustó mucho y me permitió desconectar un montón. Es por ello que dije que esperaba que trajeran pronto su secuela porque tiendo a olvidarme rápidamente lo que leo y estaba muy interesada en saber cómo continuaba la historia. Finalmente hemos tenido que esperar más de un año para tenerla pero, afortunadamente, aquí está.&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">El tomo anterior acababa con Clara regresando del bosque en compañía de Axel pero, pese a haber descubierto horribles secretos y tener que enfrentarse a situaciones de lo más dolorosas, el sufrimiento todavía no ha terminado, pues la maldición no ha finalizado y los habitantes esperan ansiosos a que Clara termine con ella.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Debido a esto, Clara tendrá que entrar de nuevo en el bosque y Axel decidirá acompañarla de nuevo. A todos los problemas se suma el hecho de que la abuela de nuestra protagonista está cada vez más delicada de salud.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Al poco de adentrarse en el bosque, Clara empezará a tener horribles visiones que le hacen ir descubriendo unos hechos de lo más enrevesados que le harán dudar de todo y de todos. El lugar está lleno de peligros y, mientras trata de buscar al responsable de todo, se reencontrará con los Perdidos, quienes llegaron al bosque sin haber conseguido salir nunca de él.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;"><b>Clara</b> es un personaje que sigue sin maravillarme, al igual que en el primer tomo. En esta secuela se convierte en una especie de heroína capaz de salvar a toda la aldea de la maldición que los envuelve. Su responsabilidad será enorme, y ella es consciente de ello. Pese a que su misión me parece admirable, es una chica con la cual no acabo de conectar debido a que me parece un tanto insulsa. Sin lugar a dudas, no tiene miedo a nada y la valentía es el rasgo que mejor lo define.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;"><b>Axel</b> es otro personaje que considero que podría dar mucho más de sí. Parece que está siempre un poco a la sombra de Clara y creo que le falta determinación. Lo que no se puede negar es que es un verdadero apoyo para la chica y, aunque para él todo lo que sucede en el bosque también resulta complicado porque le afecta personalmente, no dudará en permanecer a su lado y ayudarla en todo lo que necesite.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Como personajes secundarios nos reencontraremos con muchos de los del tomo anterior, y destacará especialmente la abuela de Clara, la cual resulta impecable, ya que nunca sabes qué esperar de ella y considero que está muy bien construida. También tendrán bastante presencia otros como Lila, una chica que se encuentra en el bosque y cuya situación es realmente complicada. Pero también tengo que destacar especialmente a la rana que se encontrarán y que será un compañero durante buena parte del libro.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">El romance no me ha convencido nada en esta segunda parte. En su antecesor me conquistó debido a la imposibilidad del mismo, pero considero que en esta ocasión se encuentra absolutamente en un segundo plano. Además, se produce una escena que me ha producido cierto cringe porque parecía que se nos quería dar a entender algo con respecto a la rana que me ha parecido una completa absurdez. Clara y Axel se pasan todo el libro juntos, pero las escenas amorosas son de lo más escasas hasta el final y la verdad es que es algo que he echado de menos porque, en lugar de dejarnos disfrutar por fin de su romance, parecían más amigos que amantes.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Considero que este tomo resulta mucho más oscuro que el anterior. La autora se mete de lleno en todo el tema de las visiones de Clara y se producirán una serie de hechos escalofriantes que me han sorprendido bastante. Creo que la historia pega unos giros completamente inesperados y eso me ha encantado ya que no he tenido idea hasta bien avanzada la lectura de lo que podía estar sucediendo realmente.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Y, tal y como os comentaba en la reseña del libro anterior, opino que la ambientación es muy buena, pero hay cosas mejorables. Hay algunos detalles que no se entienden muy bien (o al menos yo no los he entendido), y todos ellos son relacionados con el funcionamiento de la maldición en el bosque. Además, tengo que decir que todo lo que allí sucede me ha resultado un poco denso.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Se trata de un libro de unas 440 páginas que, sinceramente, se me ha hecho eterno. Los capítulos tienen una duración media pero a mí me han resultado bastante largos. Y es que mi problema es que la historia no terminaba de engancharme del todo y eso hizo que hubiera partes que se me hicieran realmente aburridas.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Me da mucha pena decirlo, pero creo que me ha jugado una mala pasada que haya tardado tanto en publicarse esta segunda parte. Del primero disfruté un montón, siendo de los mejores libros de fantasía que he leído a lo largo el año pasado. Este, sin embargo, se me hizo bastante pesado y no puedo decir que haya logrado disfrutarlo del todo. Y os aseguro que he puesto empeño en recordar todo lo que había pasado en el libro anterior leyendo mis propias anotaciones, así que no me he sentido perdida en ningún momento, pero simplemente no conseguía entrar en la historia, sintiendo que no lograba encontrar el interés que me mantuviera pegada a ella.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">Por lo tanto, sí, es una bilogía que os recomiendo a pesar de que esta segunda parte no haya sido lo que esperaba. Lo que sí os aconsejo es que los&nbsp; leáis seguidos porque es una historia con un mundo un tanto complejo del cual no conviene olvidar detalles que os harán disfrutar mucho más de la segunda parte.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;"><b><i>En definitiva, El Grimm mortal es un libro que no ha estado mal pero, a mi juicio, pega un bajón importante con respecto a la primera parte, pues el romance pasa completamente desapercibido y considero que la trama resulta un tanto tediosa y monótona.</i></b></span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgMeQqxbCZ8-oK44ad92P1wzgsWwh8K5N0l2KWZ1HEiPwFBbKpDhU04Hotk38mwjC4Fp0lR3SEWFMYSl8IflsGT8m4czUfjQkEbTaud9rNN7pbhLh7cXlzKrbMQsC4YSQtoNJg0op-Rpq0A9Nxp2-WsrvT0VbGFYvE10VSEEWTVK_9JMuoxC2ytR6w-e3-/s500/3%20de%205.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="120" data-original-width="500" height="77" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgMeQqxbCZ8-oK44ad92P1wzgsWwh8K5N0l2KWZ1HEiPwFBbKpDhU04Hotk38mwjC4Fp0lR3SEWFMYSl8IflsGT8m4czUfjQkEbTaud9rNN7pbhLh7cXlzKrbMQsC4YSQtoNJg0op-Rpq0A9Nxp2-WsrvT0VbGFYvE10VSEEWTVK_9JMuoxC2ytR6w-e3-/s320/3%20de%205.jpg" width="320" /></a></div><br /></span></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><span style="font-size: small;">&nbsp;</span></span><span style="font-family: georgia;"><b><span style="font-size: large;">1º<a href="https://buscandoundandy.blogspot.com/2024/04/resena-el-bosque-grimm-kathryn-purdie.html">El bosque Grimm</a>&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-family: georgia;"><b><span style="font-size: large;">2ºEl Grimm mortal&nbsp;</span></b></span></div><div style="text-align: right;"><span style="font-family: georgia;"><span style="font-size: xx-small;">Gracias a la editorial por el envío del ejemplar.</span><span style="font-size: large;">&nbsp;</span></span></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/resena-el-grimm-mortal-kathryn-purdie.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-grimm-mortal-kathryn-purdie.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-19T12:09:00+02:00'>12:09</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-grimm-mortal-kathryn-purdie.html#comment-form' onclick=''>
+7 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=8206202061388362144&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=8206202061388362144&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=8206202061388362144&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=8206202061388362144&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=8206202061388362144&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=8206202061388362144&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>miércoles, 17 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQz4ACZtP8NuVTCox-c6Vp9iz0V2lCiTniVBRlyBwVrtdB7Yj2jau9K6zaVPk5BsRxVIWuBiRrwwtC5h4bxFrzuvVAls5xflJj645nehW0RazifVCTov-vA4CQZI3uTOAFbku33CRIx5fOtbkyasipc0N3h-yIISUEl2JTRZ2KMwNeRvMcDqXj_7X3mDyN/s320/reclu.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='7084799165190253328' itemprop='postId'/>
+<a name='7084799165190253328'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-recluso-freida-mcfadden.html'>Reseña El recluso- Freida McFadden</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7084799165190253328' itemprop='description articleBody'>
+<div style="text-align: justify;"><i><span style="font-family: georgia;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQz4ACZtP8NuVTCox-c6Vp9iz0V2lCiTniVBRlyBwVrtdB7Yj2jau9K6zaVPk5BsRxVIWuBiRrwwtC5h4bxFrzuvVAls5xflJj645nehW0RazifVCTov-vA4CQZI3uTOAFbku33CRIx5fOtbkyasipc0N3h-yIISUEl2JTRZ2KMwNeRvMcDqXj_7X3mDyN/s1500/reclu.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="1500" data-original-width="988" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQz4ACZtP8NuVTCox-c6Vp9iz0V2lCiTniVBRlyBwVrtdB7Yj2jau9K6zaVPk5BsRxVIWuBiRrwwtC5h4bxFrzuvVAls5xflJj645nehW0RazifVCTov-vA4CQZI3uTOAFbku33CRIx5fOtbkyasipc0N3h-yIISUEl2JTRZ2KMwNeRvMcDqXj_7X3mDyN/s320/reclu.jpg" width="211" /></a></div>Autora: Freida McFadden</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Editorial: Suma</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Nº de páginas: 328</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Precio: 20&#180;90&#8364;</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Tomo: Autoconclusivo</span></i></div><p style="text-align: justify;"><i><span style="font-family: georgia;">Al comenzar su trabajo como enfermera en una prisión de máxima seguridad, Brooke Sullivan enseguida aprende que hay tres normas cruciales:<br />1. Trata a los prisioneros con respeto.<br />2. Nunca reveles información personal.<br />3. Nunca jamás intimes con los reclusos.<br />Lo que nadie sabe es que Brooke ya ha roto las reglas. Nadie conoce su estrecha conexión con Shane Nelson, uno de los presos más peligrosos de la cárcel.<br />Desde luego no saben que Shane fue el novio de Brooke en el instituto, la estrella del equipo de fútbol americano, el chico perfecto que ahora cumple cadena perpetua por una serie de cruentos asesinatos. O que fue el testimonio de Brooke lo que le llevó allí.<br />Pero Shane lo sabe. Sabe más que nadie. Y nunca lo va a olvidar.</span></i></p><p style="text-align: justify;"><i><span style="font-family: georgia;">&nbsp;</span></i></p><div style="text-align: justify;"><span style="font-family: georgia;"><b><span style="font-size: large;">Opinión personal:&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Freida McFadden se ha convertido en una autora esencial en mis estanterías y es que, aún siendo consciente de que sus libros no son brillantes, a mí me enganchan mucho y eso, en ocasiones, es lo único que pido. Además, son lecturas rapidísimas, así que estoy encantada de tener siempre alguno de sus libros pendientes porque sé que voy a poder ponerme con ellos cuando lo necesite.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Brooke es una joven enfermera que, debido a una serie de circunstancias, ha decidido romper con todo y trasladarse junto a su pequeña familia al lugar en el que creció. De allí tuvo que huir debido a una serie de asuntos que marcaron su vida para siempre pero, ahora que sus padres han fallecido, ha decidido que es el momento de regresar y establecerse allí de forma permanente.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>La chica es consciente de que no ha ido a parar al mejor lugar posible, pues eso supondrá reencontrarse con toda la gente del lugar, muchos de los cuales la recuerdan y saben perfectamente qué le ha sucedido en el pasado. Aunque no todo, pues Brooke guarda un importante secreto.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Pero, sin lugar a dudas, lo peor de todo será que entrará a trabajar en una prisión de máxima seguridad y ella sabe que allí se encuentra encerrado Shane, su primer y único gran amor, quién cumple condena tras haber cometido una serie de terribles asesinatos. Pero el problema no es solo que la persona a la que más amó resultara ser un asesino, si no que fue ella misma quien contribuyó a encerrarlo en la cárcel, pues testificó contra él.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span><b>Brooke </b>es un personaje que no me ha gustado demasiado, pero ya voy asimilando que esto es algo que me va a suceder con todas las protagonistas de la autora y, afortunadamente, no es algo que me afecte a la hora de disfrutar de sus libros. Es una chica muy poco avispada, pues no sale de un problema y ya se ha metido en otro. Parece tener carácter, pues no duda en dar una respuesta airada a quién la merezca pero, desde luego, la inteligencia no es una de sus virtudes. Puedo entender que tengas mala suerte en la vida, pero que con tus impulsos vayas tomando decisiones que van a afectar a otros sin ton ni son y que te metas en problemas de semejante magnitud con una facilidad pasmosa, solo me puede hacer pensar que no tienes dos dedos de frente.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span><b>Shane</b> me ha parecido un personaje interesantísimo. Conoceremos a este hombre en el pasado, cuando mostraba dos facetas muy diferentes, una de ellas siendo el novio ideal, y otra siendo un terrible asesino. Pero, ya en la actualidad, descubriremos a un hombre completamente mortificado, que se ha resignado a vivir siempre entre rejas pese a considerarse inocente y que no guarda ningún tipo de rencor.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Además de a estos dos personajes, podría destacar a Tim, quién es alguien común en el pasado de Brooke y de Shane y que tendrá muchísimo protagonismo en el libro. Él es un subdirector de colegio que aparece en la actualidad y que sorprenderá muy positivamente a Brooke, pues era su mejor amigo y sigue dispuesto a ser esa persona siempre dispuesta a ayudarle en todo.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>El misterio de este libro me ha parecido una absoluta maravilla. Llevaba 50 páginas y me indigné un poco pensando que ya había descubierto la realidad de la historia, porque sé que los libros de la autora suelen ser bastante previsibles, pero me daba absolutamente igual, porque me tenía tan enganchada que solo podía leer y leer. Luego vi que igual estaba equivocada, pero seguía igualmente enganchada.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>La historia va pegando saltos en el tiempo, de forma que iremos descubriendo cómo es la vida de Brooke en la actualidad, recién llegada al lugar en el que creció y cómo es su día a día en la prisión, así como su reencuentro con Shane, para realizar saltos al pasado y trasladarnos once años atrás, que fue cuando se produjeron los asesinatos que llevaron a Shane a prisión. Tanto un momento temporal como el otro me parecieron completamente adictivos.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Se trata de un libro de unas 320 páginas que es puro vicio. La historia está contada por Brooke, y os aseguro que yo no podía dejar de leer, de forma que podría decir que es de las más adictivas que he leído en los últimos tiempos. De verdad que no podía soltarlo. Lo empecé un día por la noche y, al día siguiente, en lugar de ponerme un rato con la tele mientras tomo un café como hago siempre, preferí ponerme con el libro porque necesitaba leer sin parar. Así que, sí, una tarde y una noche me duró.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Pero hay algo que me ha decepcionado profundamente con este libro, y fue el final. Es verdad que los desenlaces de esta autora no son los mejores, pero en este me ha parecido un completo sinsentido. Al inicio de la historia creía que ya había averiguado el misterio, a medida que iba avanzando empecé a tirar hacia otro lado y deseé que esa no fuera la realidad porque me habría molestado bastante, pero es que encima era todo incluso peor de lo que esperaba.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Compraría el desenlace porque sí que me ha parecido absolutamente sorprendente, pero el móvil me ha parecido una completa absurdez, y es que tiene cero sentido que el responsable de los asesinatos haya decidido cometerlos por el motivo que se nos traslada. Además, hay un personaje al que odié durante todo el libro y no deseaba que se fuera de rositas, quería que fuera el culpable porque me daba mucho cringe pero, lamentablemente, las cosas no fueron como yo deseaba.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Aún sacando este desenlace decepcionante, me ha parecido un libro buenísimo. Y, por cierto, al final hay un último capítulo (o epílogo, no lo recuerdo) narrado por otro personaje clave del libro y me ha parecido todo un acierto, aunque eso sí me ha parecido previsible. Pero, dicho esto, yo solamente puedo recomendaros que le deis una oportunidad. Una vez más, no es una historia excelente, habría muchas cosas mejorables, pero me ha parecido tan adictivo y me ha hecho sumergirme tanto en la narración que creo que voy a terminar considerándolo una de mis mejores lecturas del año.</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>Una vez terminado este libro ya solo me queda pendiente en casa, de esta misma autora, <i>Tras la puerta,</i> el cual creo que, en general, ha gustado bastante. También espero comprar pronto<i> Nunca mientas </i>y, justo hoy, se publica&nbsp;<i>La profesora.</i> Mucho publica esta mujer y pocos me parecen con lo que me enganchan.&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span><b><i>En definitiva, El recluso me ha parecido un libro brutal pues, aunque no he soportado a la protagonista y el desenlace no me ha gustado, todo lo demás me ha parecido brillante, ya que atrapa como pocos y te impide despegarte de sus páginas. Creo que es mi libro favorito de la autora.</i></b></span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;"><span>&nbsp;<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCYvsWA5vrSVkPJTssjWUzipggUv8DLA5y9LtHrkWERwAYQQGgUV2xs7A-Af92L1jF6HPoDx9YLQc4ruhOjui3O_wfaKpwwPhNRfJ2WSgOZvccppy_FST53Y0uDyTRROItk3K0Bp2IitiDUb9OwvnMGRFd2_UykQVesLliYNC9kUTapYW6jk0WqK9Hj4J2/s320/4%20y%20medio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="77" data-original-width="320" height="77" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCYvsWA5vrSVkPJTssjWUzipggUv8DLA5y9LtHrkWERwAYQQGgUV2xs7A-Af92L1jF6HPoDx9YLQc4ruhOjui3O_wfaKpwwPhNRfJ2WSgOZvccppy_FST53Y0uDyTRROItk3K0Bp2IitiDUb9OwvnMGRFd2_UykQVesLliYNC9kUTapYW6jk0WqK9Hj4J2/s1600/4%20y%20medio.jpg" width="320" /></a></div><br /></span></span></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/resena-el-recluso-freida-mcfadden.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-recluso-freida-mcfadden.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-17T11:29:00+02:00'>11:29</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-recluso-freida-mcfadden.html#comment-form' onclick=''>
+9 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=7084799165190253328&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=7084799165190253328&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=7084799165190253328&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=7084799165190253328&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=7084799165190253328&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=7084799165190253328&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>lunes, 15 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJAAQeouvtCSIiVOdQNO7mekViouD0g3IyX6cJvF8MvTXbmYKaWBbJ9zxowr5YnvL13bWnB0CgJFU4sEJ-92B-EDpTFlqSVEHOV0JZi9VjHxHEfOAWygFEApttmWFzqRLqkMBUM6QZ29fRXPWtW4WKWs8xvoAEymqGSz9lQlYKrkuSueOVXmeKyE-5HT-R/s320/1756587319092.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='6991608821678690277' itemprop='postId'/>
+<a name='6991608821678690277'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/imm-agosto-2025.html'>IMM AGOSTO 2025</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6991608821678690277' itemprop='description articleBody'>
+<p style="text-align: justify;"><span style="font-family: georgia;">&#161;Hola! &#191;Qué tal estáis? Por aquí aún seguimos con resaca emocional después del aniversario del blog, pero hoy toca continuar con la rutina, así que os traigo los libritos que han llegado a mis estanterías durante el mes de septiembre. Son poquitos, pero es que sé que a partir de ahora van a llegar más y me he cortado un poco a la hora de comprar. El motivo es que yo tengo una estantería únicamente para pendientes, pero esta ya está llena, así que he tenido que empezar a acumular los libros a un lado y ya tengo tres pilas. Quiero conseguir bajar al menos una de ellas de cara a diciembre porque ahí mi hermana y yo solemos hacernos un calendario de adviento y sé que eso va a ser una auténtica locura, así que necesito conseguir espacio para más. Dicho esto, &#161;os los muestro!</span></p><div style="text-align: center;"><span style="font-family: georgia;"><b>FOTO DE FAMILIA</b></span></div><div style="text-align: center;"><span style="font-family: georgia;"><b><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJAAQeouvtCSIiVOdQNO7mekViouD0g3IyX6cJvF8MvTXbmYKaWBbJ9zxowr5YnvL13bWnB0CgJFU4sEJ-92B-EDpTFlqSVEHOV0JZi9VjHxHEfOAWygFEApttmWFzqRLqkMBUM6QZ29fRXPWtW4WKWs8xvoAEymqGSz9lQlYKrkuSueOVXmeKyE-5HT-R/s383/1756587319092.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="333" data-original-width="383" height="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJAAQeouvtCSIiVOdQNO7mekViouD0g3IyX6cJvF8MvTXbmYKaWBbJ9zxowr5YnvL13bWnB0CgJFU4sEJ-92B-EDpTFlqSVEHOV0JZi9VjHxHEfOAWygFEApttmWFzqRLqkMBUM6QZ29fRXPWtW4WKWs8xvoAEymqGSz9lQlYKrkuSueOVXmeKyE-5HT-R/s320/1756587319092.jpg" width="320" /></a></div><br />&#161;Vamos allá!</b></span></div><div style="text-align: center;"><span style="font-family: georgia;"><b>&nbsp;</b></span></div><div style="text-align: center;"><span style="font-family: georgia;"><b><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXQlb6NvZnvAGUPnL87aH1yujm0LV0zFDV9xmKo9NBlsJujXfoW9m0un9BbQsl3SBocp2vcZigokmVvxG9hyRew5QJGHJOBP7uL6rwUG-yAhuQgMZ1ATP-GPFcUbatx1642sbc31H9AD1p1MHcbXnkuw0gTRoYyvsVNb9eAx2IVgtDKMklh0tDrUIth3vP/s510/1756587319134.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="510" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXQlb6NvZnvAGUPnL87aH1yujm0LV0zFDV9xmKo9NBlsJujXfoW9m0un9BbQsl3SBocp2vcZigokmVvxG9hyRew5QJGHJOBP7uL6rwUG-yAhuQgMZ1ATP-GPFcUbatx1642sbc31H9AD1p1MHcbXnkuw0gTRoYyvsVNb9eAx2IVgtDKMklh0tDrUIth3vP/s320/1756587319134.jpg" width="320" /></a></div></b>Detective Ferruchi- Marta Villar</span></div><div style="text-align: center;"><span style="font-family: georgia;">Matrimonio para uno- Ella Maise</span></div><div style="text-align: justify;"><span style="font-family: georgia;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-family: georgia;">De los dos que os traigo solamente he leído <i>Detective Ferruchi</i>. Se trata de un libro en gallego que, lamentablemente, no está publicado en castellano. Os diré que me ha parecido una maravilla de historia y que estoy deseando repetir con la autora.</span></div><div style="text-align: justify;"><span style="font-family: georgia;">Matrimonio para uno todavía no lo he leído y tampoco tengo previsto hacerlo a corto plazo, pues aún tengo pendiente otro libro de la autora, <i>Un pase al corazón</i>, que lleva bastante más tiempo esperando a ser leído.</span></div><div style="text-align: justify;"><span style="font-family: georgia;">&nbsp;</span></div><div style="text-align: justify;"><b><span style="font-family: georgia;">Y esto es todo por hoy. &#191;Hay alguien por aquí que lea libros en gallego? &#191;qué libros han llegado a vuestras estanterías en agosto?</span></b></div><div style="text-align: justify;"><b><span style="font-family: georgia;">&nbsp;</span></b></div><div style="text-align: justify;"><b><span style="font-family: georgia;">&#161;Un besote! &#161;Nos leemos!&nbsp;</span></b></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/imm-agosto-2025.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/imm-agosto-2025.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-15T11:32:00+02:00'>11:32</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/imm-agosto-2025.html#comment-form' onclick=''>
+4 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=6991608821678690277&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=6991608821678690277&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=6991608821678690277&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=6991608821678690277&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=6991608821678690277&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=6991608821678690277&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>domingo, 14 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisC4DbuCLNVfIhxMXJWGMXetwcocZVMfGB5NNNT91QosjmMf6hEiC7OJ_YD_bwJGTobVvqt81Mk4yYcTblfi9xTIReGqDrd1oJKtOJHEosbs94MXJFL-aXtxNK-HT9p7Jo7VOicy9CIPkQnewdVHXPRtJUMneOnCCSmk0myJUJjdwwbYGlRAg04a0DhOcy/s1600/11.png' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='5593081772003652693' itemprop='postId'/>
+<a name='5593081772003652693'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/buscando-un-dandy-cumple-anitos.html'>&#161;Buscando un dandy cumple 12 añitos!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5593081772003652693' itemprop='description articleBody'>
+<p style="text-align: justify;"><span style="font-family: georgia;">&#161;Hola! Sé que hoy no tocaba entrada, pero ni de broma iba a dejar un día tan especial sin pasarme por aquí, y es que hoy este espacio cumple 12 añitos. Cada año que pasa me sorprendo de todo el tiempo que ha pasado desde que decidí tomar una de las mejores decisiones de mi vida al crear este blog.&nbsp;</span></p><p style="text-align: justify;"><span style="font-family: georgia;"></span></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisC4DbuCLNVfIhxMXJWGMXetwcocZVMfGB5NNNT91QosjmMf6hEiC7OJ_YD_bwJGTobVvqt81Mk4yYcTblfi9xTIReGqDrd1oJKtOJHEosbs94MXJFL-aXtxNK-HT9p7Jo7VOicy9CIPkQnewdVHXPRtJUMneOnCCSmk0myJUJjdwwbYGlRAg04a0DhOcy/s320/11.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="296" data-original-width="320" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisC4DbuCLNVfIhxMXJWGMXetwcocZVMfGB5NNNT91QosjmMf6hEiC7OJ_YD_bwJGTobVvqt81Mk4yYcTblfi9xTIReGqDrd1oJKtOJHEosbs94MXJFL-aXtxNK-HT9p7Jo7VOicy9CIPkQnewdVHXPRtJUMneOnCCSmk0myJUJjdwwbYGlRAg04a0DhOcy/s1600/11.png" width="320" /></a></div><div style="text-align: justify;"><span style="font-family: georgia;">No me canso de repetirlo, para mí Buscando un dandy es importantísimo en mi vida. Es mi vía de escape, uno de mis grandes entretenimientos y es que, entre el tiempo que dedico a preparar las entradas y a visitar otros blogs, se me va una buena parte del día. También soy consciente de que leo mucho más gracias al blog, no solo porque así tengo la oportunidad de conocer más novedades, si no también porque jamás fallo en los días de publicación y eso implica que tenga que leer bastante ya que traigo unas dos reseñas por semana. Siempre he sido muy lectora, desde muy pequeña devoraba libros hasta el punto de aprendérmelos de memoria, pero si no tuviera esa necesidad de ser constante con el blog, es posible que a veces dejara pasar días sin leer absolutamente nada. Considero que esto es una suerte porque en ningún caso es una obligación, lo hago porque lo disfruto y porque me gusta tener las entradas listas cuando corresponde. De no ser así, estoy convencida de que a lo largo de estos 12 años habría tenido más de un parón lector porque es algo que me ha sucedido mucho a lo largo de mi vida. De hecho, llegué a tener periodos en mi adolescencia de años sin leer, algo que me parece todavía increíble así que, entre unas de las miles de cosas que tengo que agradecer al blog, es poder darle una oportunidad a miles de historias al año.</span></div><p style="text-align: justify;"></p><p style="text-align: justify;"><span style="font-family: georgia;">Y quiero daros las gracias a todos los que estáis ahí, ya que hacéis que todo esto siga siendo posible. Yo siempre lo digo, mientras haya una sola persona que me lea, yo seguiré aquí. Afortunadamente y, aunque muchas otras plataformas gocen de un público mucho mayor, yo sigo teniendo muchos lectores y las estadísticas están ahí, algo que me hace enormemente feliz porque eso significa que os gusta lo que hago y que este blog sigue gozando de interés para vosotros.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Y es que para mí Buscando un dandy es una parte esencial en mi vida. Sí, tengo mi cuenta de Instagram y la actualizo varias veces a la semana, pero es algo que hago como complemento al blog, porque no es algo que disfrute ni que me produzca la misma satisfacción que explayarme por aquí.&nbsp;</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Y esto es todo, simplemente quería pasarme hoy como una especie de homenaje al blog y para daros mil gracias por vuestro apoyo, por hacer que yo pueda seguir disfrutando de este sueño que empezó&nbsp; hace 12 años.</span></p><p style="text-align: justify;"><b style="font-family: georgia;"><span style="font-size: x-large;">&#161;Mil gracias por todo! &#161;A por muchos años más compartiendo lecturas!&nbsp;</span></b></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/buscando-un-dandy-cumple-anitos.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/buscando-un-dandy-cumple-anitos.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-14T12:07:00+02:00'>12:07</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/buscando-un-dandy-cumple-anitos.html#comment-form' onclick=''>
+5 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=5593081772003652693&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5593081772003652693&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5593081772003652693&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5593081772003652693&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5593081772003652693&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5593081772003652693&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>viernes, 12 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MZ_cN2phlX4rbMcZTuwWcZCDJyi4NODqIa_p-1UeUnG_CGL7jntfjETqmbiuYyZu4XBVFGjjZAp14qwIfG80We5CU-azHHT0r9HolVX31GyWVyj0zQIqfJStUcBQgCreHLjHAM7j_tvVLm78NJs0hSA4i2KhXKa1UlFWAjAIgdHljXx6vNSyMs2wQbmU/s320/pacto.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='2972087773651282244' itemprop='postId'/>
+<a name='2972087773651282244'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-pacto-de-la-rosa-sasha-peyton.html'>Reseña El pacto de la rosa- Sasha Peyton Smith</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2972087773651282244' itemprop='description articleBody'>
+<div style="text-align: justify;"><i><span style="font-family: georgia;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MZ_cN2phlX4rbMcZTuwWcZCDJyi4NODqIa_p-1UeUnG_CGL7jntfjETqmbiuYyZu4XBVFGjjZAp14qwIfG80We5CU-azHHT0r9HolVX31GyWVyj0zQIqfJStUcBQgCreHLjHAM7j_tvVLm78NJs0hSA4i2KhXKa1UlFWAjAIgdHljXx6vNSyMs2wQbmU/s1500/pacto.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="1500" data-original-width="945" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6MZ_cN2phlX4rbMcZTuwWcZCDJyi4NODqIa_p-1UeUnG_CGL7jntfjETqmbiuYyZu4XBVFGjjZAp14qwIfG80We5CU-azHHT0r9HolVX31GyWVyj0zQIqfJStUcBQgCreHLjHAM7j_tvVLm78NJs0hSA4i2KhXKa1UlFWAjAIgdHljXx6vNSyMs2wQbmU/s320/pacto.jpg" width="202" /></a></div>Autora: Sasha Peyton Smith</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Editorial: Puck</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Nº de páginas: 416</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Precio: 24&#8364;</span></i></div><div style="text-align: justify;"><i><span style="font-family: georgia;">Tomo: 1/&#191;?</span></i></div><p style="text-align: justify;"><i><span style="font-family: georgia;">Todos los ciudadanos de Inglaterra cuentan con la posibilidad de hacer un trato con su reina. Se espera que las jóvenes de alta sociedad negocien para obtener cualidades que les permitan conseguir pretendientes: un talento poco común para el piano a cambio del recuerdo más feliz de la infancia, una sonrisa perfecta a cambio del sentido del gusto.<br />Sin embargo, la primera temporada de Ivy Benton llega con un giro inesperado: una competición para conseguir el corazón del hijo de la reina hada, el príncipe Bram. Un premio que podría salvar de la ruina a la familia de Ivy. y liberar a su hermana del trato que la destruyó.<br />Pero todo trato deslumbrante de la reina hada tiene un corazón podrido. En medio de bailes lujosos, una rivalidad feroz y una alianza peligrosa con el seductor hermano de Bram, el príncipe Emmett, Ivy descubre que en el núcleo de esta competición se esconde un plan oscuro que podría acabar con Inglaterra... y con su propio corazón.</span></i></p><div style="text-align: justify;"><span style="font-size: large;"><b><span style="font-family: georgia;">Opinión personal:&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Honestamente, es muy posible que este no fuera un libro que yo llegase a comprar, pero mi sobrina me lo regaló en el Día del Libro y yo lo recibí con muchas ganas. Según iban pasando las semanas mi necesidad de leerlo iba menguando, pues no me estaba encontrando reseñas demasiado positivas, pero finalmente decidí ponerme con él y me llevé una grata sorpresa.&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Llegada cierta edad, las jóvenes deben presentarse ante la reina Mor para llegar a un pacto con ella. Las chicas proponen y la reina acepta, pero siempre a cambio de algo. Es una decisión tan importante que meditan profundamente sobre ella a lo largo de su vida para no llegar a un pacto perjudicial para ellas.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Sin embargo, a Ivy Benton poco le puede beneficiar el acuerdo al que llegue con la reina, pues su hermana ha arruinado la reputación de toda su familia y, desde ese momento, todo son críticas y desprecios hacia ella. No obstante, un golpe de suerte hará que tenga ante ella la oportunidad de su vida, pues la Reina anuncia que el príncipe Bram va a elegir esposa durante esa temporada.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Ser elegida por el príncipe Bram supondría la salvación de su familia y de ella misma. Pero alcanzar la victoria no será en absoluto sencillo, pues tendrá que renunciar a algunas cosas y competir con otras chicas igual de interesadas que ella en casarse con el príncipe. No obstante, ella cuenta con una pequeña ventaja, y es que el príncipe Emmet tiene sus motivos para desear que Ivy sea la elegida.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;"><b>Ivy</b> es un personaje que no me ha caído demasiado bien. Tengamos en cuenta que su situación es muy complicada, que es una chica muy joven, pero aún así me ha parecido muy infantil. Da la impresión de que tiene que realizar numerosos sacrificios para salvar a los suyos pero, de un momento a otro, toma decisiones poco comprensibles que no son demasiado acordes con la trama ni con sus principios. Tampoco me ha gustado demasiado su papel de líder. Ya sabéis que yo adoro a las protagonistas fuertes y valientes pero no cuando ese rol se ve forzado y la chica se convierte en algo así como la salvadora del mundo.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;"><b>Bram</b> me ha parecido un chico de lo más interesante. También él es muy joven y su situación no es fácil, pues tiene perfectamente claro que la mayor parte de las chicas que desean casarse con él no tienen ni el más mínimo interés en él, si no en su papel en la sociedad. Mostrará siempre muy buen carácter, complaciente y con buen fondo.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;"><b>Emmet </b>me ha parecido otro personaje muy interesante porque jugará un papel relevante en la elección de la futura reina. Él ha pasado toda su vida siendo el segundón, pero lejos de tener una rivalidad fea con Bram, tiene una buena relación con él. Considero que es un personaje al que vale mucho la pena conocer.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">El libro cuenta con bastantes secundarios y creo que todos ellos contribuyen muy bien a amenizar la trama. Conoceremos la historia de cada una de las chicas que llegan a la fase final y cuál es su motivación para casarse con el príncipe. Creo que esto podría haber dado un pelín más de juego pero aún así me ha gustado bastante. Y no puedo no terminar la reseña sin mencionar a Lydia, la hermana de Ivy y quién me ha parecido un personaje clave en el transcurso de la historia.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">En libro os encontraréis una especie de triángulo amoroso, pero tampoco os esperéis esa clase de triángulo en el que cada lector desea una pareja diferente. Aquí los sentimientos estarán bastante claros desde el primer momento y no se puede decir que haya una especie de conquista por parte de unos y otros para alcanzar a su interés amoroso porque las circunstancias son las que son y los sentimientos reales no estarán por las tres partes.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">El romance me ha gustado mucho por la personalidad de uno de sus protagonistas, el cual no os desvelaré, pero creo que le ha faltado un poco de fuerza. Es cierto que me han gustado mucho sus escenas juntos pero considero que están completamente desaprovechadas, pues se le podría sacar mucho más jugo a la dificultad de poder estar juntos de verdad.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">El tema de la competición por parte de las chicas creo que también está muy interesante y, aunque ya lo había leído en otras reseñas, sí, es del tipo de <i>La Selección</i> de Kiera Cass pero, una vez más, considero que no se ha aprovechado lo suficiente. Apenas habrá pruebas que superar y todo se resolverá de una manera muy rápida, teniendo claro desde el principio cuál iba a ser la decisión final. Además, creo que todas las chicas que estaban en la competición tenían una historia personal muy interesante y tampoco esto se ha aprovechado.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">La ambientación es otro de los puntos que flaquean en el libro. Al menos, para los que os gusta la fantasía más compleja. Yo agradezco que se trate de un mundo muy simple que apenas necesita explicaciones porque ya sabéis que tiendo a liarme, pero lo cierto es que la mención al tema de las hadas es más bien escaso y el mundo en el que viven los personajes podría ser perfectamente el mundo actual si no fuera porque, en contadas ocasiones y sobre todo hacia el final, se nos recuerda que no es así.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">El desenlace me ha sorprendido mucho. Había algo que ya me estaba viendo venir pero considero que todo se recrudece de un momento a otro y me ha dejado completamente a cuadros. También es verdad que me ha parecido un poquito enrevesado, pero no está nada mal y, sin lugar a dudas, te deja con ganas totales de leer el siguiente tomo de forma inmediata.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Se trata de un libro de poco más de 400 páginas que se lee rapidísimo. A mí me duró dos días y eso que lo estaba combinando con otra lectura. Los capítulos son cortitos y estarán narrados por la propia Ivy, a excepción de alguna pequeña intervención de cada una de las chicas que participan en la competición para trasladarnos su propia historia, lo cual considero todo un acierto.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Como veis, he destacado muchas cosas negativas del libro y considero que no refleja para nada mi sentir general con respecto a la historia, porque da la impresión de que no me ha gustado cuando no es así para nada. Fijaos si me ha atrapado que hasta me he planteado darle una puntuación de 4, pero finalmente he sentido que, aunque me ha gustado mucho, también hay muchos otros aspectos mejorables.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-family: georgia; font-size: small;">No puedo finalizar la reseña sin hablaros de su maravillosa edición. No os miento si os digo que es de los libros más bonitos que tengo en mi estantería. Los cantos son únicamente rosas, sin ningún tipo de dibujo, pero muy coloridos. Además, lejos de ser esos mamotretos de ediciones especiales a las que nos tienen acostumbrados, tan incómodas de manejar, este libro es muy pequeñito, perfecto para tener un ejemplar bonito en la estantería y que pueda leerse sin ningún tipo de dificultad.</span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">Esta es la primera parte de, si no me equivoco, una bilogía. A mí me ha dejado con muchas ganas de más y me encantaría leer la segunda parte, pero creo que todavía no se ha publicado ni en inglés, así que no me quiero ni imaginar lo que va a tardar en llegar a España. Posiblemente ese sea un motivo suficiente para que termine por no darle una oportunidad, cosa que me apenaría enormemente porque este libro me gustó y me gustaría saber cómo continúa la historia.</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;">&nbsp;</span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;"><b><i>En definitiva, El pacto de la rosa ha supuesto una absoluta sorpresa para mí pues, aunque hay muchos aspectos mejorables, me ha gustado el planteamiento de la historia, cómo se va desarrollando la trama y que siempre haya espacio para la sorpresa. Igual no es el libro romantasy más completo, pero a mí me ha gustado mucho.</i></b></span></span></div><div style="text-align: justify;"><span style="font-size: small;"><span style="font-family: georgia;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiusiXCV6lnr00e1EWdFOd0n7Nnt9olhmbskbFJWtbgK_phB03cz_ek2eKYkvKH7GfgB9bwRZCgUNZEIl__YdWuHzNvo_YDsFY9PSRw2EMZy06u2zq20fAqsCdQZ9FAlzVI9RyJJYsMLGZuWkpNmlzuFj8XB4bZU42Mln-UZqY6BkCuv16KRUOpxEtvtAXo/s320/3%20y%20medio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="77" data-original-width="320" height="77" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiusiXCV6lnr00e1EWdFOd0n7Nnt9olhmbskbFJWtbgK_phB03cz_ek2eKYkvKH7GfgB9bwRZCgUNZEIl__YdWuHzNvo_YDsFY9PSRw2EMZy06u2zq20fAqsCdQZ9FAlzVI9RyJJYsMLGZuWkpNmlzuFj8XB4bZU42Mln-UZqY6BkCuv16KRUOpxEtvtAXo/s1600/3%20y%20medio.jpg" width="320" /></a></div></span></span></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/resena-el-pacto-de-la-rosa-sasha-peyton.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-pacto-de-la-rosa-sasha-peyton.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-12T12:05:00+02:00'>12:05</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-el-pacto-de-la-rosa-sasha-peyton.html#comment-form' onclick=''>
+6 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=2972087773651282244&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=2972087773651282244&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=2972087773651282244&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=2972087773651282244&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=2972087773651282244&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=2972087773651282244&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>miércoles, 10 de septiembre de 2025</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF-qkGGTuqdhmrYHCZ9JN8B6ooxxTWRxw4WaMXyiGNe9DeNUNIdnFGIomF_-1uANG0RQ1DfkcOFYhzuBSqYDyWKdjbGILGRLU7RyZzMP3Yd8VFD1eYs9t2MyKHbenQw6WJQ1AblxobNX9K5wyNw45UTW6BgBT9lt2c6EEYcPhfb1mJQaI1A5hObcC5Y5Ar/s320/lago.jpg' itemprop='image_url'/>
+<meta content='8435634224993115331' itemprop='blogId'/>
+<meta content='5878386591585228991' itemprop='postId'/>
+<a name='5878386591585228991'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://buscandoundandy.blogspot.com/2025/09/resena-te-veo-en-el-lago-carley-fortune.html'>Reseña Te veo en el lago- Carley Fortune</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5878386591585228991' itemprop='description articleBody'>
+<div style="text-align: left;"><i><span style="font-family: georgia;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF-qkGGTuqdhmrYHCZ9JN8B6ooxxTWRxw4WaMXyiGNe9DeNUNIdnFGIomF_-1uANG0RQ1DfkcOFYhzuBSqYDyWKdjbGILGRLU7RyZzMP3Yd8VFD1eYs9t2MyKHbenQw6WJQ1AblxobNX9K5wyNw45UTW6BgBT9lt2c6EEYcPhfb1mJQaI1A5hObcC5Y5Ar/s1500/lago.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="1500" data-original-width="987" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF-qkGGTuqdhmrYHCZ9JN8B6ooxxTWRxw4WaMXyiGNe9DeNUNIdnFGIomF_-1uANG0RQ1DfkcOFYhzuBSqYDyWKdjbGILGRLU7RyZzMP3Yd8VFD1eYs9t2MyKHbenQw6WJQ1AblxobNX9K5wyNw45UTW6BgBT9lt2c6EEYcPhfb1mJQaI1A5hObcC5Y5Ar/s320/lago.jpg" width="211" /></a></div>Autora: Carley Fortune</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Editorial: Ediciones B</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Nº de páginas: 320</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Precio: 20&#180;90</span></i></div><div style="text-align: left;"><i><span style="font-family: georgia;">Tomo: Autoconclusivo</span></i></div><p style="text-align: justify;"><i><span style="font-family: georgia;">Fern Brookbanks ha malgastado demasiados años pensando en Will Baxter. Pasó solo veinticuatro horas con el artista en un día fortuito de aventuras por Toronto. Se confiaron sus sueños y secretos y prometieron reencontrarse un año después. Fern acudió a la cita. Will, no.<br />Ahora, ella vive en la casa de su niñez, regenta el resort de su madre en Muskoka, que está hecho un desastre, y necesita un salvavidas. Para su eterna sorpresa, su deseo se cumple cuando Will aparece, nueve años tarde, con una maleta y una oferta para ayudarla. Pero &#191;cómo va a fiarse ella de ese hombre trajeado que se parece tan poco al que conoció?<br />Will oculta algo, y Fern no está segura de querer saber qué. Sin embargo, hace años él la rescató. Y puede que haya llegado la hora de que ella le devuelva el favor.</span></i></p><div style="text-align: justify;"><span style="font-family: georgia;"><b><span style="font-size: large;">Opinión personal:&nbsp;</span></b></span></div><div style="text-align: justify;"><span style="font-family: georgia;">Este libro tenía que ser una de mis lecturas del verano sí o sí. El año pasado leí Todos nuestros veranos y, aunque el final me dejó bastante disgustada, fue de esas historias que según va pasando el tiempo te vas dando cuenta de que dejó huella en ti. Es por ello que a este le tenía muchísimas ganas.</span></div><p style="text-align: justify;"><span style="font-family: georgia;">Fern acaba de perder a su madre,&nbsp; y es por ello que debe regresar a sus orígenes después de mucho tiempo, pues allí se encuentra el resort que siempre ha regentado su madre y debe tomar una decisión al respecto. Fern tiene, en estos momentos, muchas dudas en su vida, pues tiene muchos sueños por cumplir y para ello posiblemente tendría que tomar la decisión de deshacerse del resort que tan importante era para su madre.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Sin esperarlo, este regreso supondrá el reencuentro con Will, un chico con el que vivió una experiencia muy intensa en un muy corto periodo de tiempo. Tal fue la intensidad de esa conexión, que ambos prometieron volver a verse un año después. El problema es que Will jamás acudió a la cita, algo que dejó a Fern dolida y desconcertada durante mucho tiempo.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Ahora que se han visto de nuevo, las cosas han cambiado mucho. Fern está superando la pérdida más dolorosa de su vida y se encuentra en una encrucijada en muchos aspectos, pero Will es un hombre completamente distinto del que ella conoció. Además, descubrirá que este tenía un estrecho vínculo con su progenitora.</span></p><div style="text-align: justify;"><span style="font-family: georgia;"><b>Fern </b>es un personaje que no me ha convencido. Entiendo que está pasando por el peor momento de su vida y en ese sentido he empatizado con ella, pero considero que es demasiado intensa, algo que no he logrado comprender en muchas ocasiones. Le da mil vueltas a todo, pero a la vez resuelve cosas que la martirizan con una facilidad pasmosa. Me ha parecido una chica muy insulsa e incluso plana.</span></div><div style="text-align: justify;"><span style="font-family: georgia;"><b>Will</b> es otro personaje que no me ha convencido. Creo que él deja entrever un lado mucho más tierno y protector que ella, y eso ya es más de lo que se puede decir de Fern. La vida tampoco ha sido justa con él y es un chico con muchos sueños que se han quedado por el camino. Es responsable y bastante enigmático, pero tampoco he entendido cómo resuelve las cosas, porque tiende a huir de las situaciones complejas, lo que siempre complica las cosas.</span></div><p style="text-align: justify;"><span style="font-family: georgia;">Apenas tendremos personajes secundarios en este libro y yo los he echado mucho de menos. Es verdad que conoceremos bastante a la madre de Fern a través de su diario y quizás sea el único secundario relevante, porque la trama está completamente centrada en ellos dos. Y sí, también destaco a Whitney, la mejor amiga de Fern, pero la verdad es que pasa sin pena ni gloria por el libro pese a tener buenos valores.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">El romance no me ha convencido, y es que no me lo he creído. El primer encuentro entre Fern y Will me ha parecido mágico, y entiendo que siempre se le haya quedado clavada esa espinita de qué podría haber sucedido si Will acudiese a la cita, pero me han parecido desmesurados los sentimientos de ambos cuando apenas se conocen y el encuentro ha sido tan fugaz.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">La manera en la que se desarrolla su romance en la actualidad tampoco me ha convencido. No he percibido nada de química entre ellos y creo que todo es demasiado precipitado. Encontrarse con la persona que tanto te ha marcado debería ser descrito como un momento impactante y emotivo y lo cierto es que no me ha transmitido nada de esto.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">El punto del que parte la historia me parece maravilloso. Es increíble encontrarse con alguien con quién conectes tan bien como para tocar temas de tanta profundidad, por lo que no entiendo en qué momento esa magia se pierde, dándonos como resultado un romance en el presente carente de emoción y de química.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Apenas encontraremos escenas sexuales en el libro, pero tampoco me han transmitido nada. El primer encuentro siempre es esperado con ganas por el lector y, la verdad, a mí me dio absolutamente igual porque no lograba disfrutar de esa explosión brutal de sentimientos, pues creo que la autora no ha conseguido transmitirnos ese fuego y esa necesidad de conectar.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">El libro trata otros temas de cierto interés, tales como el duelo. Me ha encantado la relación entre Fern y su madre, pero considero que no profundiza demasiado en la pérdida o, al menos a mí, no ha conseguido transmitirme nada. Sí me ha gustado más cómo se trata el tema de los sueños que tenemos en la vida y cómo a veces estos se truncan con el transcurso de la misma.&nbsp;&nbsp;</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Se trata de un libro de unas 300 páginas que se lee muy rápido. A mí me duró dos días y eso que apenas lo disfruté. Los capítulos son de duración media y contaremos únicamente con la narración de Fern. La historia irá pegando saltos en el tiempo, de manera que nos trasladaremos al pasado para ver cómo se conocieron y, salteándolo con los momentos del presente en el que ya se han reencontrado y están construyendo algo nuevo.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">No puedo decir que este libro sea malo pero para mí ha supuesto una auténtica decepción. Después de <i>Todos nuestros veranos</i>, del que podría destacar muchas cosas positivas, encontrarme un libro tan carente de emoción y con unos personajes tan planos es algo que no esperaba para nada, así que puedo decir que las expectativas me han jugado una mala pasada.</span></p><p style="text-align: justify;"><span style="font-family: georgia;">Afortunadamente, la autora tiene otros libros publicados en español, así que trataré de repetir con ella en el futuro. No pierdo la esperanza de encontrar una historia suya que me guste porque la verdad es que la pluma de Carley Fortune me parece bastante delicada y profunda.</span></p><p style="text-align: justify;"><i><span style="font-family: georgia;"><b>En definitiva, Te veo en el lago es un libro que me ha decepcionado bastante, pues no he conseguido conectar con los personajes, el romance me ha parecido muy flojo y considero que le falta emoción en la mayor parte de escenas.</b></span></i></p><p style="text-align: justify;"><i><span style="font-family: georgia;"></span></i></p><div class="separator" style="clear: both; text-align: center;"><i><span style="font-family: georgia;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHO0V8Tz1kmA985kdsrd3D83Hi_i_E8EjVgISFnY7UP5dwOvglu0KZ72QhLzTjrImA3C0pJW1Zb7xhG16fPvrFRUKjI1VfpQq9N9Wp8zIbTMuSkLwQsMtH3EyYtQWWtcDgji3eSxLT66n8ILbwl9Kvf1ZziZqdBzWZ0VaZm3U9TO8XY_er5mOUPZKpvyB2/s500/3%20de%205.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="120" data-original-width="500" height="77" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHO0V8Tz1kmA985kdsrd3D83Hi_i_E8EjVgISFnY7UP5dwOvglu0KZ72QhLzTjrImA3C0pJW1Zb7xhG16fPvrFRUKjI1VfpQq9N9Wp8zIbTMuSkLwQsMtH3EyYtQWWtcDgji3eSxLT66n8ILbwl9Kvf1ZziZqdBzWZ0VaZm3U9TO8XY_er5mOUPZKpvyB2/s320/3%20de%205.jpg" width="320" /></a></span></i></div><p></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Publicado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/10038195195969488113' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' title='author profile'>
+<span itemprop='name'>Marya</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<meta content='http://buscandoundandy.blogspot.com/2025/09/resena-te-veo-en-el-lago-carley-fortune.html' itemprop='url'/>
+<a class='timestamp-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-te-veo-en-el-lago-carley-fortune.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2025-09-10T11:34:00+02:00'>11:34</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://buscandoundandy.blogspot.com/2025/09/resena-te-veo-en-el-lago-carley-fortune.html#comment-form' onclick=''>
+4 comentarios:
+  </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-87655705'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8435634224993115331&postID=5878386591585228991&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5878386591585228991&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5878386591585228991&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5878386591585228991&target=twitter' target='_blank' title='Compartir en X'><span class='share-button-link-text'>Compartir en X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5878386591585228991&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8435634224993115331&postID=5878386591585228991&target=pinterest' target='_blank' title='Compartir en Pinterest'><span class='share-button-link-text'>Compartir en Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://buscandoundandy.blogspot.com/search?updated-max=2025-09-10T11:34:00%2B02:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Entradas antiguas'>Entradas antiguas</a>
+</span>
+<a class='home-link' href='http://buscandoundandy.blogspot.com/'>Inicio</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Suscribirse a:
+<a class='feed-link' href='http://buscandoundandy.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Entradas (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Text' data-version='1' id='Text2'>
+<h2 class='title'>Contacto:</h2>
+<div class='widget-content'>
+<b><span style="color:#6633ff;">Si queréis poneros en contacto conmigo para cualquier duda, sugerencia... &#161;lo que sea! escribidme a: maryalokylla@gmail.com</span></b>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>Sígueme en:</h2>
+<div class='widget-content'>
+<a href="https://twitter.com/marya_dandy/" target="_blank"><img alt="siguenos en Twitter" height="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1_vRDj3s6611NL_VOesBEhPWF7xulnAaAHB-TzPwMo6nTs-cdeys8Clso4RXnV3f7FmSQMwp1eFJYsRkhp3w-Hr0kVsOr1zCDka54IhgJ7c3nzlbhzElIkMVbyO58cf8bEK2E7Cv2bgpQ/s1600/Twitter+NEW.png" title="siguenos en Twitter" width="40" /></a>
+
+<a href="https://www.facebook.com/marya.yomisma" target="_blank"><img alt="siguenos en facebook" height="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvR5HtknNaleSr7FkAlcIO3HSe2Md9yUYtB42ryvn_O_QKAMlntJm7XS9HORaR9MD_PfP8qGDVkumJ6e_DFewI5EmO_qS2OIh4cHqwPrO54tEAfTrb1tAjeq3pT4qQ7u7N1Ig6dn24kqF2/s1600/face.png" title="siguenos en facebook" width="40" /></a>
+
+<a href="https://www.instagram.com/buscandoundandy/" target="_blank"><img alt="sígueme en Instagram" height="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh705ExNc0U6yfCwWIkLlsWXwThvTrHuIieIkoXfSCWAJmiM3aHWTLoITCfJcE89nRd3BhHLgJTK-K_T4hYnGSRXIZZuxicO2aaGQ5FhT3i7lrBMBjLB22e99fFFfFgG8dFdiXY-Ie2Vzdc/s1600/instagram.png" title="sígueme en Instagram" width="40" /></a>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image5'>
+<h2>Libro que estoy leyendo:</h2>
+<div class='widget-content'>
+<img alt='Libro que estoy leyendo:' height='331' id='Image5_img' src='https://blogger.googleusercontent.com/img/a/AVvXsEii6oMsSgEfd436tkNdc9J90Ne585fHuGRuehahUEMdpZQiWkmbBr9gN6R9aJCHMp9CVShCbgF-P-_-Fu_csR-Ijw4aYlQrVxvsYv3qEgJt-oJg3igrx_bYQsSBedzpnBX-tsftf19lGlHA_hD9sS0cxWYVP08CzBNCIsntD3hFg9lG9zCeKwyg6__g-_6V=s331' width='210'/>
+<br/>
+<span class='caption'>LA LEYENDA DE LA SERPIENTE BLANCA- SHER LEE</span>
+</div>
+<div class='clear'></div>
+</div><div class='widget Stats' data-version='1' id='Stats1'>
+<h2>Vistas de página en total</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<span class='counter-wrapper graph-counter-wrapper' id='Stats1_totalCount'>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Archivo del blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/'>
+2025
+</a>
+<span class='post-count' dir='ltr'>(114)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+<ul class='posts'>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/wrap-up-agosto-2025.html'>WRAP UP AGOSTO 2025</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-grimm-mortal-kathryn-purdie.html'>Reseña El Grimm mortal- Kathryn Purdie</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-recluso-freida-mcfadden.html'>Reseña El recluso- Freida McFadden</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/imm-agosto-2025.html'>IMM AGOSTO 2025</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/buscando-un-dandy-cumple-anitos.html'>&#161;Buscando un dandy cumple 12 añitos!</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-el-pacto-de-la-rosa-sasha-peyton.html'>Reseña El pacto de la rosa- Sasha Peyton Smith</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-te-veo-en-el-lago-carley-fortune.html'>Reseña Te veo en el lago- Carley Fortune</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/novedades-septiembre-2025.html'>Novedades Septiembre 2025</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-un-lugar-feliz-emily-henry.html'>Reseña Un lugar feliz- Emily Henry</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/resena-un-rey-de-verano-juan-arcones.html'>Reseña Un rey de verano- Juan Arcones</a></li>
+<li><a href='http://buscandoundandy.blogspot.com/2025/09/libro-del-mes-agosto-2025.html'>LIBRO DEL MES: AGOSTO 2025</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2025/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/'>
+2024
+</a>
+<span class='post-count' dir='ltr'>(159)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2024/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(151)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2023/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(157)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2022/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(156)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2021/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(157)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2020/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(157)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2019/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(175)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2018/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(200)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2017/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(211)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2016/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(210)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2015/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(186)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2014/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2013/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2013/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2013/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://buscandoundandy.blogspot.com/2013/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Seguidores</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers/frame/8435634224993115331?colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByM3ZjAwMGMqC3RyYW5zcGFyZW50MgcjMmMxNTgzOgcjMDAwMDAwQgcjN2YwMDBjSgcjY2EwZTBlUgcjN2YwMDBjWgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26hl\x3des\x26origin\x3dhttp://buscandoundandy.blogspot.com");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers/frame/8435634224993115331?colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByM3ZjAwMGMqC3RyYW5zcGFyZW50MgcjMmMxNTgzOgcjMDAwMDAwQgcjN2YwMDBjSgcjY2EwZTBlUgcjN2YwMDBjWgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26hl\x3des\x26origin\x3dhttp://buscandoundandy.blogspot.com");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>Top Comentaristas</h2>
+<div class='widget-content'>
+<script src="http://semnomenet.googlecode.com/files/topcomentaristas.js" type="text/javascript"></script><script type="text/javascript">
+topComentaristas({
+"url":"http://buscandoundandy.blogspot.com.es/",
+"comentaristas":10,
+"modelo":2,
+"excluir":[{1:"Marya"}]
+});
+</script><br />
+<div style="text-align: center;"><a href="http://tutorialesbloggeros.blogspot.com/2011/05/poner-un-gadget-de-comentaristas.html"><span style="font-size:11px;" alt="Top Comentaristas" title="Gadget de Top Comentaristas">Quiero esto en mi Blog!</span></a></div style="text-align: center;">
+</div>
+<div class='clear'></div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Entradas populares</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-title'><a href='http://buscandoundandy.blogspot.com/2016/07/resena-calendar-girl-audrey-carlan.html'>Reseña Calendar girl- Audrey Carlan</a></div>
+<div class='item-snippet'>   Autora: Audrey Carlan  Editorial: Planeta  Nº de páginas: 432  Precio: 17&#180;90&#8364;  Tomo: 1 /4   Mia necesita dinero. Mucho dinero. Para ser e...</div>
+</li>
+<li>
+<div class='item-title'><a href='http://buscandoundandy.blogspot.com/2016/02/resena-oye-morena-tu-que-miras-megan.html'>Reseña Oye, morena, &#191;tú que miras?- Megan Maxwell</a></div>
+<div class='item-snippet'>  Autora: Megan Maxwell  Editorial: Esencia  Nº de páginas: 480  Precio: 15&#180;90&#8364;  Tomo: Autoconclusivo   Hola, soy Coral. Siempre fui una rom...</div>
+</li>
+<li>
+<div class='item-title'><a href='http://buscandoundandy.blogspot.com/2022/04/resena-yo-te-vi-primero-patricia-bonet.html'>Reseña Yo te vi primero- Patricia Bonet</a></div>
+<div class='item-snippet'>Autora: Patricia Bonet Editorial: Kiwi Nº de páginas: 430 Precio: 18&#180;90&#8364; Tomo: Autoconclusivo Solo hacen falta cinco segundos para que tu vi...</div>
+</li>
+<li>
+<div class='item-title'><a href='http://buscandoundandy.blogspot.com/2014/01/novedades-romantica-erotica-enero-2014.html'>Novedades Romántica- Erótica Enero 2014</a></div>
+<div class='item-snippet'> &#161;Hola chicos! &#191;Cómo va todo? A estas alturas supongo que ya os habréis dado cuenta de que soy una amante tanto de la literatura romántica c...</div>
+</li>
+<li>
+<div class='item-title'><a href='http://buscandoundandy.blogspot.com/2019/05/resena-el-dia-que-me-calle-me-salen.html'>Reseña El día que me calle me salen subtítulos- Anabel García</a></div>
+<div class='item-snippet'>    Autora: Anabel García  Editorial: Esencia  Nº de páginas: 464  Precio: 14&#180;15&#8364;  Tomo: Autoconclusivo   Mi vida era perfecta hasta que ese...</div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>Sobre mí:</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/profile/10038195195969488113'><img alt='Mi foto' class='profile-img' height='60' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXMR1VLim5-DW6yj5EVrwkUP8ak2E50NhOI0Nvxurx0eyL2_HGHyx85RGw-f6u1DAHdpEWloyIBFqYL_bLJFMAGuVyqGIj0gbJ3HLBFrpbWZJJQvxHdfqYjiTG5aYnaU/s113/20131108_152004.jpg' width='80'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/10038195195969488113' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+Marya
+</a>
+</dt>
+<dd class='profile-textblock'>Abogada, amante de los animales, apasionada de la moda, la música, navegar por internet y, sobre todo, la lectura. </dd>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/10038195195969488113' rel='author'>Ver todo mi perfil</a>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' data-version='1' id='Image15'>
+<h2>Formo parte de:</h2>
+<div class='widget-content'>
+<a href='http://estanteriacompartida.blogspot.com.es/2014/03/cadena-de-libros.html'>
+<img alt='Formo parte de:' height='210' id='Image15_img' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidedJRJuLELp3uhyrdqBJFpbkO4Rur36NZ0d5m2FuftdC9ZjAE247c1EiskrcWoEvTSH37AKPSv_iKcMhWUfh_ABYsqQsJprmyEwSmHDWBM7rheNXFuBm3IxC3TTA5oV-c2xpBrm5Zr9o/s1600/cadenalibros+%25281%2529.png' width='168'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image7'>
+<h2>Gracias a:</h2>
+<div class='widget-content'>
+<a href='http://www.boolino.es/es/?utm_source=friend&utm_medium=banner'>
+<img alt='Gracias a:' height='150' id='Image7_img' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEka0Q0OBKKiIs-V9BQoLE07pYVQi9rgswty_0KZAYv1UNIhIivaNEMVgL3kQhQ3bLQGZiNGmEgz00oIr4vi0L2H6CFJ3yeVmugCBUIol6wQj_a8Lx-ZNyQn_MANevPRYlP9kEk9xN9ao/s1600/boolino.gif' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image16'>
+<h2>&#161;SÍGUEME!</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/follow-blog.g?blogID=8435634224993115331'>
+<img alt='¡SÍGUEME!' height='163' id='Image16_img' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazJfNOjTYOmDPfspFXHrj5KooiGPQYReX7CHE1I8-HzTmfmNVybMmB35icoO5I5kYQ6TsRoGCd0W-M0LReCKZ3EberTbzawjFBOt0lVYwfhKWeohicuILnOODC7fmUDgU8_ESJxRMWls/s1600/SEGUIDOR.jpg' width='190'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+</div></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='sidebar section' id='sidebar-right-2-1'><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<h2 class='title'>Buscar este blog</h2>
+<div class='widget-content'>
+<div id='BlogSearch1_form'>
+<form action='http://buscandoundandy.blogspot.com/search' class='gsc-search-box' target='_top'>
+<table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+<tbody>
+<tr>
+<td class='gsc-input'>
+<input autocomplete='off' class='gsc-input' name='q' size='10' title='search' type='text' value=''/>
+</td>
+<td class='gsc-search-button'>
+<input class='gsc-search-button' title='search' type='submit' value='Buscar'/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div></div>
+</td>
+<td class='columns-cell'>
+<div class='sidebar no-items section' id='sidebar-right-2-2'>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class='sidebar no-items section' id='sidebar-right-3'></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Pie de página'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Tema Filigrana. Imágenes del tema: <a href='http://jasonmorrow.etsy.com' target='_blank'>Jason Morrow</a>. Con la tecnología de <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<!--To Ty odpowiadasz za poinformowanie u\u017cytkownik\xf3w o\xa0u\u017cywaniu plik\xf3w cookie i\xa0zbieraniu danych na blogu. Blogger udost\u0119pnia standardowe powiadomienie, kt\xf3rego mo\u017cesz u\u017cywa\u0107 na swoim blogu. Mo\u017cesz je dostosowa\u0107 do swoich potrzeb lub zast\u0105pi\u0107 w\u0142asnym. Tu znajdziesz wi\u0119cej informacji: http://www.blogger.com/go/cookiechoices.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'W\xa0tej witrynie s\u0105 wykorzystywane pliki cookie, kt\xf3rych Google u\u017cywa do \u015bwiadczenia swoich us\u0142ug i\xa0analizowania ruchu. Tw\xf3j adres\xa0IP i\xa0nazwa klienta u\u017cytkownika oraz dane dotycz\u0105ce wydajno\u015bci i\xa0bezpiecze\u0144stwa s\u0105 udost\u0119pniane firmie Google, by zapewni\u0107 odpowiedni\u0105 jako\u015b\u0107 us\u0142ug, generowa\u0107 statystyki u\u017cytkowania oraz wykrywa\u0107 nadu\u017cycia i\xa0na nie reagowa\u0107.',
+          (window.cookieOptions && cookieOptions.close) || 'Rozumiem',
+          (window.cookieOptions && cookieOptions.learn) || 'Dowiedz si\u0119 wi\u0119cej',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/552934507-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6J2YOa52-LpGhmO2h0X64F7BbYlQ:1758562602527';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8435634224993115331','//buscandoundandy.blogspot.com/','8435634224993115331');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8435634224993115331', 'title': 'Buscando un dandy', 'url': 'http://buscandoundandy.blogspot.com/', 'canonicalUrl': 'http://buscandoundandy.blogspot.com/', 'homepageUrl': 'http://buscandoundandy.blogspot.com/', 'searchUrl': 'http://buscandoundandy.blogspot.com/search', 'canonicalHomepageUrl': 'http://buscandoundandy.blogspot.com/', 'blogspotFaviconUrl': 'http://buscandoundandy.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'es', 'localeUnderscoreDelimited': 'es', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Buscando un dandy - Atom\x22 href\x3d\x22http://buscandoundandy.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Buscando un dandy - RSS\x22 href\x3d\x22http://buscandoundandy.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Buscando un dandy - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8435634224993115331/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/10038195195969488113\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/6d12723abf16eb92', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Obtener enlace', 'key': 'link', 'shareMessage': 'Obtener enlace', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartir en Facebook', 'target': 'facebook'}, {'name': 'Escribe un blog', 'key': 'blogThis', 'shareMessage': 'Escribe un blog', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Compartir en X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartir en Pinterest', 'target': 'pinterest'}, {'name': 'Correo electr\xf3nico', 'key': 'email', 'shareMessage': 'Correo electr\xf3nico', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27es\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leer m\xe1s', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Buscando un dandy'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'El enlace se ha copiado en el Portapapeles.', 'ok': 'Aceptar', 'postLink': 'Enlace de la entrada'}}, {'name': 'template', 'data': {'name': 'Watermark', 'localizedName': 'Filigrana', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'bubblegum', 'variantId': 'bubblegum'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Buscando un dandy', 'description': '', 'url': 'http://buscandoundandy.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', document.getElementById('PageList1'), {'title': 'P\xe1ginas', 'links': [{'isCurrentPage': true, 'href': 'http://buscandoundandy.blogspot.com/', 'title': 'P\xe1gina principal'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/resenas.html', 'id': '6002823795458947646', 'title': 'Rese\xf1as'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/blog-page.html', 'id': '789544983039681221', 'title': 'Booktags'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/sobre-mi.html', 'id': '683876767931248603', 'title': 'Sobre m\xed'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/wishlist.html', 'id': '7273855671667680833', 'title': 'Wishlist'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/contacto.html', 'id': '1141548417982581001', 'title': 'Contacto'}, {'isCurrentPage': false, 'href': 'http://buscandoundandy.blogspot.com/p/a-partir-del-dia-25-de-mayo-estara-en.html', 'id': '8021066408273404869', 'title': 'Aviso legal'}], 'mobile': false, 'showPlaceholder': true, 'hasCurrentPage': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2972474512-lbx__es.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'sidebar-right-1', document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-1', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image5', 'sidebar-right-1', document.getElementById('Image5'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar-right-1', document.getElementById('Stats1'), {'title': 'Vistas de p\xe1gina en total', 'showGraphicalCounter': true, 'showAnimatedCounter': false, 'showSparkline': false, 'statsUrl': '//buscandoundandy.blogspot.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmBXjbB8EckJqkpdDdorSHAUMAdSuBJ1PGbI69J9GmivdushTcJ2-a13kiPub7SbwD65-OsN7vOAb9JTL5yRbEuuHARQPA'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Cargando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-right-1', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-right-1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image15', 'sidebar-right-1', document.getElementById('Image15'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image7', 'sidebar-right-1', document.getElementById('Image7'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image16', 'sidebar-right-1', document.getElementById('Image16'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-2-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
